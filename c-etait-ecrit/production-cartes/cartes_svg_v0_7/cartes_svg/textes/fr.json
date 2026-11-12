@@ -1,0 +1,462 @@
+{
+ "HR1": {
+  "nom": "Peku · Dernier souffle",
+  "regle": "Une fois, si tu perds un duel, crie : pas de recul, Relique gardée.",
+  "citation": "Acceptez ma démission."
+ },
+ "HR2": {
+  "nom": "Mopizo Alafesse · Passé sombre",
+  "regle": "Toujours actif : quand tu perds un duel, le gagnant recule d’1.",
+  "citation": "Signez ici, madame."
+ },
+ "HR3": {
+  "nom": "Piloli · Leçon surprise",
+  "regle": "Une fois, après la Lecture, change ta carte (pas celle d’avant), puis recule d’1.",
+  "citation": "Je gomme. Tu repars."
+ },
+ "HR4": {
+  "nom": "Pigeon Bâtard · Coup de foudre",
+  "regle": "Une fois, échange ta place avec un joueur 1 à 3 cases devant.",
+  "citation": "Courrier pour vous."
+ },
+ "HR5": {
+  "nom": "Chikito · Trahison évidente",
+  "regle": "Une fois, au début de la Course, prends une Relique, puis recule de 2.",
+  "citation": "Voleur un jour, voleur ce jour."
+ },
+ "HR6": {
+  "nom": "Zaku Likuza · Fou rire",
+  "regle": "Une fois, annule un Événement ou Rebondissement si deux joueurs rient en 10 secondes.",
+  "citation": "Laissez-moi finir ma blague."
+ },
+ "HR7": {
+  "nom": "Muchake · Plan infaillible",
+  "regle": "Avant de jouer, demande « suis-je la cible ? » ; si oui, vois le parchemin.",
+  "citation": "Je ne suis pas battu : je suis classé."
+ },
+ "AC-HR1-COUP": {
+  "nom": "Coup",
+  "regle": "Bat Ruse, perd face à Garde.",
+  "citation": ""
+ },
+ "AC-HR1-GARDE": {
+  "nom": "Garde",
+  "regle": "Bat Coup, perd face à Ruse.",
+  "citation": ""
+ },
+ "AC-HR1-RUSE": {
+  "nom": "Ruse",
+  "regle": "Bat Garde, perd face à Coup.",
+  "citation": ""
+ },
+ "AC-HR2-COUP": {
+  "nom": "Coup",
+  "regle": "Bat Ruse, perd face à Garde.",
+  "citation": ""
+ },
+ "AC-HR2-GARDE": {
+  "nom": "Garde",
+  "regle": "Bat Coup, perd face à Ruse.",
+  "citation": ""
+ },
+ "AC-HR2-RUSE": {
+  "nom": "Ruse",
+  "regle": "Bat Garde, perd face à Coup.",
+  "citation": ""
+ },
+ "AC-HR3-COUP": {
+  "nom": "Coup",
+  "regle": "Bat Ruse, perd face à Garde.",
+  "citation": ""
+ },
+ "AC-HR3-GARDE": {
+  "nom": "Garde",
+  "regle": "Bat Coup, perd face à Ruse.",
+  "citation": ""
+ },
+ "AC-HR3-RUSE": {
+  "nom": "Ruse",
+  "regle": "Bat Garde, perd face à Coup.",
+  "citation": ""
+ },
+ "AC-HR4-COUP": {
+  "nom": "Coup",
+  "regle": "Bat Ruse, perd face à Garde.",
+  "citation": ""
+ },
+ "AC-HR4-GARDE": {
+  "nom": "Garde",
+  "regle": "Bat Coup, perd face à Ruse.",
+  "citation": ""
+ },
+ "AC-HR4-RUSE": {
+  "nom": "Ruse",
+  "regle": "Bat Garde, perd face à Coup.",
+  "citation": ""
+ },
+ "AC-HR5-COUP": {
+  "nom": "Coup",
+  "regle": "Bat Ruse, perd face à Garde.",
+  "citation": ""
+ },
+ "AC-HR5-GARDE": {
+  "nom": "Garde",
+  "regle": "Bat Coup, perd face à Ruse.",
+  "citation": ""
+ },
+ "AC-HR5-RUSE": {
+  "nom": "Ruse",
+  "regle": "Bat Garde, perd face à Coup.",
+  "citation": ""
+ },
+ "AC-HR6-COUP": {
+  "nom": "Coup",
+  "regle": "Bat Ruse, perd face à Garde.",
+  "citation": ""
+ },
+ "AC-HR6-GARDE": {
+  "nom": "Garde",
+  "regle": "Bat Coup, perd face à Ruse.",
+  "citation": ""
+ },
+ "AC-HR6-RUSE": {
+  "nom": "Ruse",
+  "regle": "Bat Garde, perd face à Coup.",
+  "citation": ""
+ },
+ "AC-HR7-COUP": {
+  "nom": "Coup",
+  "regle": "Bat Ruse, perd face à Garde.",
+  "citation": ""
+ },
+ "AC-HR7-GARDE": {
+  "nom": "Garde",
+  "regle": "Bat Coup, perd face à Ruse.",
+  "citation": ""
+ },
+ "AC-HR7-RUSE": {
+  "nom": "Ruse",
+  "regle": "Bat Garde, perd face à Coup.",
+  "citation": ""
+ },
+ "EV01": {
+  "nom": "Le vieux sage",
+  "regle": "Avance de 2, plus 1 si tu imites le vieux sage 5 secondes.",
+  "citation": ""
+ },
+ "EV02": {
+  "nom": "Coffre suspect",
+  "regle": "Lance le dé : pair, une Armure ; impair, monstre, recule de 2.",
+  "citation": ""
+ },
+ "EV03": {
+  "nom": "Festin",
+  "regle": "Avance d’1, plus 1 si tu décris ton plat favori 10 secondes.",
+  "citation": ""
+ },
+ "EV04": {
+  "nom": "Nuit étoilée",
+  "regle": "Gagne une Armure, puis reste silencieux 3 secondes.",
+  "citation": ""
+ },
+ "EV05": {
+  "nom": "Montée de niveau",
+  "regle": "Avance de 2 ; tu peux relancer ton prochain dé une fois.",
+  "citation": ""
+ },
+ "EV06": {
+  "nom": "Raccourci secret",
+  "regle": "Avance jusqu’à la prochaine étoile (4 cases max), sinon d’1, sans l’activer.",
+  "citation": ""
+ },
+ "EV07": {
+  "nom": "Rencontre inattendue",
+  "regle": "Choisis un joueur : vous avancez tous deux de 2, en vous saluant.",
+  "citation": ""
+ },
+ "EV08": {
+  "nom": "Embuscade",
+  "regle": "Recule de 3, sauf si tu défausses une Armure.",
+  "citation": ""
+ },
+ "EV09": {
+  "nom": "Tournoi surprise",
+  "regle": "Défie un joueur : cartes en secret, sans Mémoire ; le perdant recule de 3.",
+  "citation": ""
+ },
+ "EV10": {
+  "nom": "Le pont s’effondre",
+  "regle": "Recule d’1, sauf si tu cries « je n’ai pas le vertige ! »",
+  "citation": ""
+ },
+ "EV11": {
+  "nom": "Marchand louche",
+  "regle": "Tu peux rendre une Armure pour avancer de 4.",
+  "citation": ""
+ },
+ "EV12": {
+  "nom": "Vent favorable",
+  "regle": "Avance de 3 ; les autres avancent d’1.",
+  "citation": ""
+ },
+ "EV13": {
+  "nom": "Épisode musical",
+  "regle": "Avance de 2, plus 1 si tu chantes une phrase.",
+  "citation": ""
+ },
+ "EV14": {
+  "nom": "Le grand méchant",
+  "regle": "Tous les autres reculent d’1.",
+  "citation": ""
+ },
+ "EV15": {
+  "nom": "Poisse du héros",
+  "regle": "Recule de 2 ; ce n’est (presque) pas ta faute.",
+  "citation": ""
+ },
+ "EV16": {
+  "nom": "Faille spatio-temporelle",
+  "regle": "Échange ta place avec un joueur à 6 cases ou moins.",
+  "citation": ""
+ },
+ "EV17": {
+  "nom": "Vote du village",
+  "regle": "La table désigne le plus suspect : il recule de 2.",
+  "citation": ""
+ },
+ "EV18": {
+  "nom": "Cadeau du destin",
+  "regle": "Pioche un Rebondissement : un autre joueur en subit l’effet.",
+  "citation": ""
+ },
+ "EV19": {
+  "nom": "Projecteurs braqués",
+  "regle": "Le plus avancé recule de 3 et salue le public.",
+  "citation": ""
+ },
+ "EV20": {
+  "nom": "Dernière chance",
+  "regle": "Le dernier avance de 4 ; la table crie « encore ! »",
+  "citation": ""
+ },
+ "EV21": {
+  "nom": "Le twist",
+  "regle": "Échange ta place avec le plus avancé ; si c’est toi, avance de 2.",
+  "citation": ""
+ },
+ "EV22": {
+  "nom": "Duel d’arène",
+  "regle": "Duel avec le plus proche, sans Mémoire : le perdant recule de 3.",
+  "citation": ""
+ },
+ "EV23": {
+  "nom": "Le chœur",
+  "regle": "Les joueurs à 3 cases ou moins derrière le plus avancé avancent de 2.",
+  "citation": ""
+ },
+ "EV24": {
+  "nom": "Pause syndicale",
+  "regle": "Thé imaginaire, 5 secondes : qui rit recule de 2 ; personne, avance de 3.",
+  "citation": ""
+ },
+ "EV25": {
+  "nom": "Avis de passage",
+  "regle": "Lance le dé : pair, avance de 3 ; impair, recule d’1.",
+  "citation": ""
+ },
+ "EV26": {
+  "nom": "Mise à jour",
+  "regle": "Retourne le prochain Genre (alternance A, B) en remplacement ; avance d’1.",
+  "citation": ""
+ },
+ "EV27": {
+  "nom": "Tiroir du bas",
+  "regle": "Pioche 2 Événements, applique-en un, glisse l’autre sous la pioche.",
+  "citation": ""
+ },
+ "RB01": {
+  "nom": "Plan du méchant",
+  "regle": "Recule de 2 ; le Scénariste t’explique son plan 10 secondes, sans interruption.",
+  "citation": ""
+ },
+ "RB02": {
+  "nom": "Flash-back inutile",
+  "regle": "Recule de 3 ; raconte un souvenir en 15 secondes si tu veux.",
+  "citation": ""
+ },
+ "RB03": {
+  "nom": "Trahison",
+  "regle": "Donne ta Relique au Scénariste ; sans Relique, recule de 3.",
+  "citation": ""
+ },
+ "RB04": {
+  "nom": "Épisode de remplissage",
+  "regle": "Passe ton prochain lancer de dé.",
+  "citation": ""
+ },
+ "RB05": {
+  "nom": "Amnésie soudaine",
+  "regle": "Ton pouvoir de héros est bloqué jusqu’à la fin de la prochaine manche.",
+  "citation": ""
+ },
+ "RB06": {
+  "nom": "Le rival passe",
+  "regle": "Échange ta place avec le dernier ; si tu l’es, avance de 2.",
+  "citation": ""
+ },
+ "RB07": {
+  "nom": "Tsundère",
+  "regle": "Pas de Coup à la prochaine manche.",
+  "citation": ""
+ },
+ "RB08": {
+  "nom": "Pluie dramatique",
+  "regle": "Ton prochain dé compte pour moitié (arrondi au supérieur).",
+  "citation": ""
+ },
+ "RB09": {
+  "nom": "Générique trop tôt",
+  "regle": "Lance le dé : 1 ou 2, recule de 4 ; sinon de 1.",
+  "citation": ""
+ },
+ "RB10": {
+  "nom": "Mentor lâcheur",
+  "regle": "Perds une Armure ; sans Armure, recule de 2.",
+  "citation": ""
+ },
+ "RB11": {
+  "nom": "Le public soupire",
+  "regle": "Recule de 2 ; la table fait « ohhh » 3 secondes.",
+  "citation": ""
+ },
+ "RB12": {
+  "nom": "Amitié des autres",
+  "regle": "Tous les autres avancent d’1 ; toi, tu restes là.",
+  "citation": ""
+ },
+ "RB13": {
+  "nom": "Audit surprise",
+  "regle": "Plaide 10 secondes : majorité pour toi, recule d’1 ; sinon de 3.",
+  "citation": ""
+ },
+ "GN01": {
+  "nom": "Aventure",
+  "regle": "Aucune règle spéciale : Genre de départ.",
+  "citation": ""
+ },
+ "GN02": {
+  "nom": "Romance",
+  "regle": "Égalité en duel : les deux avancent de 2 (« quelle coïncidence ! »).",
+  "citation": ""
+ },
+ "GN03": {
+  "nom": "Enquête",
+  "regle": "Le Scénariste pose une question oui/non à sa cible, qui peut mentir.",
+  "citation": ""
+ },
+ "GN04": {
+  "nom": "Rediffusion",
+  "regle": "Cette manche, rejoue la carte de la manche précédente.",
+  "citation": ""
+ },
+ "GN05": {
+  "nom": "Bureau",
+  "regle": "Dis « je m’en occupe » avant ton dé (oublié : −1) ; ou « lundi » : immobile, Armure.",
+  "citation": ""
+ },
+ "GN06": {
+  "nom": "Shonen",
+  "regle": "Crie ton Coup en 3 mots inventés, sinon annulé ; gagnant : recule de 5.",
+  "citation": ""
+ },
+ "GN07": {
+  "nom": "Tournoi",
+  "regle": "Le plus avancé recule de 4 s’il perd un duel.",
+  "citation": ""
+ },
+ "GN08": {
+  "nom": "Fausse mort",
+  "regle": "Le dernier est « mort » (ni visé ni reculé) ; il revient avec un monologue.",
+  "citation": ""
+ },
+ "GN09": {
+  "nom": "Trahison",
+  "regle": "Chacun pointe un joueur ; le plus pointé recule de 3 et se justifie.",
+  "citation": ""
+ },
+ "PV1": {
+  "nom": "Extrait n° 1",
+  "regle": "Gérard, secrétaire de séance",
+  "citation": "Séance ouverte. Durée prévue : cinq minutes."
+ },
+ "PV2": {
+  "nom": "Extrait n° 2",
+  "regle": "Rémi quitte la séance",
+  "citation": "Rémi propose de tout reprendre à zéro."
+ },
+ "PV3": {
+  "nom": "Extrait n° 3",
+  "regle": "Lou quitte la séance",
+  "citation": "Lou ne reste jamais jusqu’à la fin."
+ },
+ "PV4": {
+  "nom": "Extrait n° 4",
+  "regle": "Bernard quitte la séance",
+  "citation": "On nous avait dit cinq minutes."
+ },
+ "PV5": {
+  "nom": "Extrait n° 5",
+  "regle": "Puis : « Je m’en occupe. »",
+  "citation": "Gérard écrit trois fois « démission »."
+ },
+ "PV6": {
+  "nom": "Extrait n° 6",
+  "regle": "La séance ne peut être close avant le café.",
+  "citation": "Bien noté."
+ },
+ "LG1": {
+  "nom": "Planche de légende",
+  "regle": "Les 15 gestes, les 6 cibles et le cycle, en images.",
+  "citation": ""
+ },
+ "HC1": {
+  "nom": "Le sac",
+  "regle": "Chaque Relique passe au voisin de gauche, s’il n’en porte pas.",
+  "citation": ""
+ },
+ "HC2": {
+  "nom": "La chasse d’eau",
+  "regle": "Le plus avancé et le dernier échangent leurs places.",
+  "citation": ""
+ },
+ "HC3": {
+  "nom": "La gomme",
+  "regle": "Efface la prophétie de la manche et prends la Plume.",
+  "citation": ""
+ },
+ "HC4": {
+  "nom": "L’aube",
+  "regle": "Le dernier avance de 6.",
+  "citation": ""
+ },
+ "HC5": {
+  "nom": "La chute",
+  "regle": "Défausse le Genre en cours : retour à Aventure.",
+  "citation": ""
+ },
+ "HC6": {
+  "nom": "La loupe",
+  "regle": "À la prochaine manche, lis le parchemin avant de jouer ta carte.",
+  "citation": ""
+ },
+ "HC7": {
+  "nom": "Le courrier",
+  "regle": "Pioche un Rebondissement et donne-le au joueur le plus avancé.",
+  "citation": ""
+ },
+ "HC8": {
+  "nom": "Les dalles",
+  "regle": "Tous les jetons cachés restants sont retournés face visible.",
+  "citation": ""
+ }
+}

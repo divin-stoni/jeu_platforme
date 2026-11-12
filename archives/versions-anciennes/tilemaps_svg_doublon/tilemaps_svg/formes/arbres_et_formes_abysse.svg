@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2720 3180" width="2720" height="3180"><title>Arbres, buissons et formes d'abysse</title><defs>
+<pattern id="t_abysse_moyen" patternUnits="userSpaceOnUse" width="512" height="512"><image width="512" height="512" xlink:href="../textures/abysse_moyen.jpg"/></pattern>
+<pattern id="t_sol_herbe_temperee" patternUnits="userSpaceOnUse" width="512" height="512"><image width="512" height="512" xlink:href="../textures/sol_herbe_temperee.jpg"/></pattern>
+<pattern id="t_sol_jungle_humus" patternUnits="userSpaceOnUse" width="512" height="512"><image width="512" height="512" xlink:href="../textures/sol_jungle_humus.jpg"/></pattern>
+<pattern id="t_sol_savane_herbe_seche" patternUnits="userSpaceOnUse" width="512" height="512"><image width="512" height="512" xlink:href="../textures/sol_savane_herbe_seche.jpg"/></pattern>
+</defs>
+<g id="arbres_temperes"><rect x="30.0" y="60" width="2660" height="590" rx="24" fill="url(#t_sol_herbe_temperee)"/><text x="60" y="108" font-family="sans-serif" font-size="36" fill="#fff" stroke="#000" stroke-width="1">Arbres tempérés</text>
+<image id="arbre_chene" x="80" y="140" width="480" height="480" xlink:href="../sprites/arbre_chene.png"/><text x="90" y="644" font-family="sans-serif" font-size="22" fill="#fff" stroke="#000" stroke-width=".8">arbre_chene</text>
+<image id="arbre_bouleau" x="600" y="140" width="480" height="480" xlink:href="../sprites/arbre_bouleau.png"/><text x="610" y="644" font-family="sans-serif" font-size="22" fill="#fff" stroke="#000" stroke-width=".8">arbre_bouleau</text>
+<image id="arbre_chene_automne" x="1120" y="140" width="480" height="480" xlink:href="../sprites/arbre_chene_automne.png"/><text x="1130" y="644" font-family="sans-serif" font-size="22" fill="#fff" stroke="#000" stroke-width=".8">arbre_chene_automne</text>
+<image id="arbre_epicea" x="1640" y="140" width="480" height="480" xlink:href="../sprites/arbre_epicea.png"/><text x="1650" y="644" font-family="sans-serif" font-size="22" fill="#fff" stroke="#000" stroke-width=".8">arbre_epicea</text>
+<image id="buisson_vert" x="2160" y="140" width="480" height="480" xlink:href="../sprites/buisson_vert.png"/><text x="2170" y="644" font-family="sans-serif" font-size="22" fill="#fff" stroke="#000" stroke-width=".8">buisson_vert</text>
+</g>
+<g id="arbres_tropicaux"><rect x="30.0" y="710" width="2660" height="590" rx="24" fill="url(#t_sol_jungle_humus)"/><text x="60" y="758" font-family="sans-serif" font-size="36" fill="#fff" stroke="#000" stroke-width="1">Arbres tropicaux</text>
+<image id="arbre_palmier" x="80" y="790" width="480" height="480" xlink:href="../sprites/arbre_palmier.png"/><text x="90" y="1294" font-family="sans-serif" font-size="22" fill="#fff" stroke="#000" stroke-width=".8">arbre_palmier</text>
+<image id="arbre_palmier_royal" x="600" y="790" width="480" height="480" xlink:href="../sprites/arbre_palmier_royal.png"/><text x="610" y="1294" font-family="sans-serif" font-size="22" fill="#fff" stroke="#000" stroke-width=".8">arbre_palmier_royal</text>
+<image id="arbre_bananier" x="1120" y="790" width="480" height="480" xlink:href="../sprites/arbre_bananier.png"/><text x="1130" y="1294" font-family="sans-serif" font-size="22" fill="#fff" stroke="#000" stroke-width=".8">arbre_bananier</text>
+<image id="arbre_canopee_jungle" x="1640" y="790" width="480" height="480" xlink:href="../sprites/arbre_canopee_jungle.png"/><text x="1650" y="1294" font-family="sans-serif" font-size="22" fill="#fff" stroke="#000" stroke-width=".8">arbre_canopee_jungle</text>
+</g>
+<g id="savane"><rect x="30.0" y="1360" width="2660" height="590" rx="24" fill="url(#t_sol_savane_herbe_seche)"/><text x="60" y="1408" font-family="sans-serif" font-size="36" fill="#fff" stroke="#000" stroke-width="1">Savane</text>
+<image id="arbre_acacia" x="80" y="1440" width="480" height="480" xlink:href="../sprites/arbre_acacia.png"/><text x="90" y="1944" font-family="sans-serif" font-size="22" fill="#fff" stroke="#000" stroke-width=".8">arbre_acacia</text>
+<image id="buisson_sec" x="600" y="1440" width="480" height="480" xlink:href="../sprites/buisson_sec.png"/><text x="610" y="1944" font-family="sans-serif" font-size="22" fill="#fff" stroke="#000" stroke-width=".8">buisson_sec</text>
+</g>
+<g id="formes_dabysse"><rect x="30.0" y="2010" width="2660" height="1110" rx="24" fill="url(#t_abysse_moyen)"/><text x="60" y="2058" font-family="sans-serif" font-size="36" fill="#fff" stroke="#000" stroke-width="1">Formes d'abysse</text>
+<image id="forme_leviathan" x="80" y="2090" width="480" height="480" xlink:href="../sprites/forme_leviathan.png"/><text x="90" y="2594" font-family="sans-serif" font-size="22" fill="#fff" stroke="#000" stroke-width=".8">forme_leviathan</text>
+<image id="forme_raie_manta" x="600" y="2090" width="480" height="480" xlink:href="../sprites/forme_raie_manta.png"/><text x="610" y="2594" font-family="sans-serif" font-size="22" fill="#fff" stroke="#000" stroke-width=".8">forme_raie_manta</text>
+<image id="forme_kraken" x="1120" y="2090" width="480" height="480" xlink:href="../sprites/forme_kraken.png"/><text x="1130" y="2594" font-family="sans-serif" font-size="22" fill="#fff" stroke="#000" stroke-width=".8">forme_kraken</text>
+<image id="forme_meduse" x="1640" y="2090" width="480" height="480" xlink:href="../sprites/forme_meduse.png"/><text x="1650" y="2594" font-family="sans-serif" font-size="22" fill="#fff" stroke="#000" stroke-width=".8">forme_meduse</text>
+<image id="forme_baudroie" x="2160" y="2090" width="480" height="480" xlink:href="../sprites/forme_baudroie.png"/><text x="2170" y="2594" font-family="sans-serif" font-size="22" fill="#fff" stroke="#000" stroke-width=".8">forme_baudroie</text>
+<image id="forme_banc_poissons" x="80" y="2610" width="480" height="480" xlink:href="../sprites/forme_banc_poissons.png"/><text x="90" y="3114" font-family="sans-serif" font-size="22" fill="#fff" stroke="#000" stroke-width=".8">forme_banc_poissons</text>
+<image id="forme_tentacule_de_bord" x="600" y="2610" width="480" height="480" xlink:href="../sprites/forme_tentacule_de_bord.png"/><text x="610" y="3114" font-family="sans-serif" font-size="22" fill="#fff" stroke="#000" stroke-width=".8">forme_tentacule_de_bord</text>
+</g>
+</svg>

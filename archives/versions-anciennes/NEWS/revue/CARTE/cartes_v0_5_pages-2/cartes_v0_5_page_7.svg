@@ -1,0 +1,1613 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 595.28 841.89"
+   width="210.00mm"
+   height="297.00mm"
+   id="svg148"
+   sodipodi:docname="cartes_v0_5_page_7.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs148" />
+  <sodipodi:namedview
+     id="namedview148"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.50583235"
+     inkscape:cx="647.44772"
+     inkscape:cy="475.45397"
+     inkscape:window-width="1853"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="page_7" />
+  <g
+     id="page_7"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 7 · Dossier Gérard (extension)">
+    <rect
+       x="0"
+       y="0"
+       width="595.28"
+       height="841.89"
+       fill="#ffffff"
+       id="fond_page_7" />
+    <defs
+       id="defs7">
+      <clipPath
+         id="p7_clip_1">
+        <path
+           transform="matrix(1,0,0,-1,0,841.89)"
+           d="M38.14 754.445H199.14C204.1152 754.445 208.14 758.4698 208.14 763.445V785.445C208.14 790.4202 204.1152 794.445 199.14 794.445H38.14C33.1648 794.445 29.14 790.4202 29.14 785.445V763.445C29.14 758.4698 33.1648 754.445 38.14 754.445Z"
+           clip-rule="evenodd"
+           id="path1" />
+      </clipPath>
+      <clipPath
+         id="p7_clip_2">
+        <path
+           transform="matrix(1,0,0,-1,0,841.89)"
+           d="M217.14 762.445H378.14C383.1152 762.445 387.14 766.4698 387.14 771.445V785.445C387.14 790.4202 383.1152 794.445 378.14 794.445H217.14C212.1648 794.445 208.14 790.4202 208.14 785.445V771.445C208.14 766.4698 212.1648 762.445 217.14 762.445Z"
+           clip-rule="evenodd"
+           id="path2" />
+      </clipPath>
+      <clipPath
+         id="p7_clip_3">
+        <path
+           transform="matrix(1,0,0,-1,0,841.89)"
+           d="M396.14 762.445H557.14C562.1152 762.445 566.14 766.4698 566.14 771.445V785.445C566.14 790.4202 562.1152 794.445 557.14 794.445H396.14C391.1648 794.445 387.14 790.4202 387.14 785.445V771.445C387.14 766.4698 391.1648 762.445 396.14 762.445Z"
+           clip-rule="evenodd"
+           id="path3" />
+      </clipPath>
+      <clipPath
+         id="p7_clip_4">
+        <path
+           transform="matrix(1,0,0,-1,0,841.89)"
+           d="M38.14 513.445H199.14C204.1152 513.445 208.14 517.4698 208.14 522.445V536.445C208.14 541.4202 204.1152 545.445 199.14 545.445H38.14C33.1648 545.445 29.14 541.4202 29.14 536.445V522.445C29.14 517.4698 33.1648 513.445 38.14 513.445Z"
+           clip-rule="evenodd"
+           id="path4" />
+      </clipPath>
+      <clipPath
+         id="p7_clip_5">
+        <path
+           transform="matrix(1,0,0,-1,0,841.89)"
+           d="M217.14 513.445H378.14C383.1152 513.445 387.14 517.4698 387.14 522.445V536.445C387.14 541.4202 383.1152 545.445 378.14 545.445H217.14C212.1648 545.445 208.14 541.4202 208.14 536.445V522.445C208.14 517.4698 212.1648 513.445 217.14 513.445Z"
+           clip-rule="evenodd"
+           id="path5" />
+      </clipPath>
+      <clipPath
+         id="p7_clip_6">
+        <path
+           transform="matrix(1,0,0,-1,0,841.89)"
+           d="M396.14 507.445H557.14C562.1152 507.445 566.14 511.4698 566.14 516.445V536.445C566.14 541.4202 562.1152 545.445 557.14 545.445H396.14C391.1648 545.445 387.14 541.4202 387.14 536.445V516.445C387.14 511.4698 391.1648 507.445 396.14 507.445Z"
+           clip-rule="evenodd"
+           id="path6" />
+      </clipPath>
+      <clipPath
+         id="p7_clip_7">
+        <path
+           transform="matrix(1,0,0,-1,0,841.89)"
+           d="M38.14 264.445H199.14C204.1152 264.445 208.14 268.4698 208.14 273.445V287.445C208.14 292.4202 204.1152 296.445 199.14 296.445H38.14C33.1648 296.445 29.14 292.4202 29.14 287.445V273.445C29.14 268.4698 33.1648 264.445 38.14 264.445Z"
+           clip-rule="evenodd"
+           id="path7" />
+      </clipPath>
+    </defs>
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M38.14 545.445H199.14C204.1152 545.445 208.14 549.4698 208.14 554.445V785.445C208.14 790.4202 204.1152 794.445 199.14 794.445H38.14C33.1648 794.445 29.14 790.4202 29.14 785.445V554.445C29.14 549.4698 33.1648 545.445 38.14 545.445Z"
+       fill="#fff4dc"
+       fill-rule="evenodd"
+       id="path8" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width=".8"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#7a7596"
+       d="M38.14 545.445H199.14C204.1152 545.445 208.14 549.4698 208.14 554.445V785.445C208.14 790.4202 204.1152 794.445 199.14 794.445H38.14C33.1648 794.445 29.14 790.4202 29.14 785.445V554.445C29.14 549.4698 33.1648 545.445 38.14 545.445Z"
+       id="path9" />
+    <g
+       clip-path="url(#p7_clip_1)"
+       id="g10">
+      <path
+         transform="matrix(1,0,0,-1,0,841.89)"
+         d="M29.14 754.445H208.14V794.445H29.14Z"
+         fill="#1d1b3a"
+         fill-rule="evenodd"
+         id="path10" />
+    </g>
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       font-size="12"
+       font-family="Caladea"
+       font-weight="bold"
+       font-style="italic"
+       text-anchor="middle"
+       id="text10"><tspan
+         y="63.445"
+         x="118.640"
+         id="tspan10">DOSSIER GÉRARD</tspan></text>
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       font-size="6.8"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text11"><tspan
+         y="75.445"
+         x="118.640"
+         id="tspan11">EXTENSION FACULTATIVE · À TRAITER LUNDI</tspan></text>
+    <path
+       stroke-width="2.2"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#9aa0b5"
+       d="m 42.721582,71.19867 2.78346,-19.80536 c 0.835038,-5.941608 9.74745,-4.689051 8.912412,1.252557 L 50.798956,78.392835 C 49.963918,84.334443 39.07097,82.80354 39.906008,76.861932 l 2.505114,-17.824824"
+       id="path11" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M151.64 714.445C151.64 732.6704 136.8654 747.445 118.64 747.445 100.4146 747.445 85.64 732.6704 85.64 714.445 85.64 696.2196 100.4146 681.445 118.64 681.445 136.8654 681.445 151.64 696.2196 151.64 714.445"
+       fill="#6b49c8"
+       fill-opacity=".15"
+       fill-rule="evenodd"
+       id="path12" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M145.64 714.445C145.64 729.3567 133.5517 741.445 118.64 741.445 103.7283 741.445 91.64 729.3567 91.64 714.445 91.64 699.5333 103.7283 687.445 118.64 687.445 133.5517 687.445 145.64 699.5333 145.64 714.445"
+       fill="#6b49c8"
+       fill-opacity=".26"
+       fill-rule="evenodd"
+       id="path13" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M140.64 714.445C140.64 726.5953 130.7903 736.445 118.64 736.445 106.4897 736.445 96.64 726.5953 96.64 714.445 96.64 702.2947 106.4897 692.445 118.64 692.445 130.7903 692.445 140.64 702.2947 140.64 714.445"
+       fill="#6b49c8"
+       fill-rule="evenodd"
+       id="path14" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width="2"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M140.64 714.445C140.64 726.5953 130.7903 736.445 118.64 736.445 106.4897 736.445 96.64 726.5953 96.64 714.445 96.64 702.2947 106.4897 692.445 118.64 692.445 130.7903 692.445 140.64 702.2947 140.64 714.445"
+       id="path15" />
+    <path
+       transform="matrix(.916667,0,0,-.916667,118.64,127.44501)"
+       d="M-15-12V12H-5L-2 8H15V-12Z"
+       fill="#f2b705"
+       fill-rule="evenodd"
+       id="path16" />
+    <path
+       transform="matrix(.916667,0,0,-.916667,118.64,127.44501)"
+       stroke-width="1.1"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M-15-12V12H-5L-2 8H15V-12Z"
+       id="path17" />
+    <path
+       transform="matrix(.916667,0,0,-.916667,118.64,127.44501)"
+       d="M-13-12H15V5H-13Z"
+       fill="#ffd966"
+       fill-rule="evenodd"
+       id="path18" />
+    <path
+       transform="matrix(.916667,0,0,-.916667,118.64,127.44501)"
+       stroke-width=".9"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M-13-12H15V5H-13Z"
+       id="path19" />
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="8.1"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text20"><tspan
+         y="169.445"
+         x="118.640"
+         id="tspan20">6 cartes marquées d’un trombone : mélange</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="8.1"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text21"><tspan
+         y="178.845"
+         x="118.640"
+         id="tspan21">les 4 Événements, le Rebondissement et le</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="8.1"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text22"><tspan
+         y="188.245"
+         x="118.640"
+         id="tspan22">Genre BUREAU dans leurs pioches.</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="8.1"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text23"><tspan
+         y="201.645"
+         x="118.640"
+         id="tspan23">3 Reliques-Bouteilles : elles prennent la place</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="8.1"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text24"><tspan
+         y="211.045"
+         x="118.640"
+         id="tspan24">des 3 Reliques. Même règle, autre flacon.</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="8.1"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text25"><tspan
+         y="224.445"
+         x="118.640"
+         id="tspan25">À n’ouvrir qu’après ta première partie. Sans</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="8.1"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text26"><tspan
+         y="233.845"
+         x="118.640"
+         id="tspan26">le Dossier, le jeu est complet.</tspan></text>
+    <text
+       fill="#6b49c8"
+       xml:space="preserve"
+       font-size="8.2"
+       font-family="Caladea"
+       font-weight="bold"
+       font-style="italic"
+       text-anchor="middle"
+       id="text27"><tspan
+         y="274.445"
+         x="118.640"
+         id="tspan27">« L’Ordre ne répond pas aux questions</tspan></text>
+    <text
+       fill="#6b49c8"
+       xml:space="preserve"
+       font-size="8.2"
+       font-family="Caladea"
+       font-weight="bold"
+       font-style="italic"
+       text-anchor="middle"
+       id="text28"><tspan
+         y="284.445"
+         x="118.640"
+         id="tspan28">sur la Bouteille. »</tspan></text>
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M217.14 545.445H378.14C383.1152 545.445 387.14 549.4698 387.14 554.445V785.445C387.14 790.4202 383.1152 794.445 378.14 794.445H217.14C212.1648 794.445 208.14 790.4202 208.14 785.445V554.445C208.14 549.4698 212.1648 545.445 217.14 545.445Z"
+       fill="#fff4dc"
+       fill-rule="evenodd"
+       id="path28" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width=".8"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#7a7596"
+       d="M217.14 545.445H378.14C383.1152 545.445 387.14 549.4698 387.14 554.445V785.445C387.14 790.4202 383.1152 794.445 378.14 794.445H217.14C212.1648 794.445 208.14 790.4202 208.14 785.445V554.445C208.14 549.4698 212.1648 545.445 217.14 545.445Z"
+       id="path29" />
+    <g
+       clip-path="url(#p7_clip_2)"
+       id="g30">
+      <path
+         transform="matrix(1,0,0,-1,0,841.89)"
+         d="M208.14 762.445H387.14V794.445H208.14Z"
+         fill="#1d1b3a"
+         fill-rule="evenodd"
+         id="path30" />
+    </g>
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       font-size="8"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text30"><tspan
+         y="67.445"
+         x="298.545"
+         letter-spacing="1.809"
+         word-spacing="-1.811"
+         id="tspan30">ÉVÉNEMENT · DOSSIER</tspan></text>
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M342.64 708.445C342.64 733.2978 322.4928 753.445 297.64 753.445 272.7872 753.445 252.64 733.2978 252.64 708.445 252.64 683.5922 272.7872 663.445 297.64 663.445 322.4928 663.445 342.64 683.5922 342.64 708.445"
+       fill="#6b49c8"
+       fill-opacity=".15"
+       fill-rule="evenodd"
+       id="path31" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M336.64 708.445C336.64 729.9841 319.1791 747.445 297.64 747.445 276.1009 747.445 258.64 729.9841 258.64 708.445 258.64 686.9059 276.1009 669.445 297.64 669.445 319.1791 669.445 336.64 686.9059 336.64 708.445"
+       fill="#6b49c8"
+       fill-opacity=".26"
+       fill-rule="evenodd"
+       id="path32" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M331.64 708.445C331.64 727.2227 316.4177 742.445 297.64 742.445 278.8623 742.445 263.64 727.2227 263.64 708.445 263.64 689.6673 278.8623 674.445 297.64 674.445 316.4177 674.445 331.64 689.6673 331.64 708.445"
+       fill="#6b49c8"
+       fill-rule="evenodd"
+       id="path33" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width="2"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M331.64 708.445C331.64 727.2227 316.4177 742.445 297.64 742.445 278.8623 742.445 263.64 727.2227 263.64 708.445 263.64 689.6673 278.8623 674.445 297.64 674.445 316.4177 674.445 331.64 689.6673 331.64 708.445"
+       id="path34" />
+    <path
+       transform="matrix(1.416667,0,0,-1.416667,297.64,133.445)"
+       stroke-width="1.4"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="m 13.236799,-1.0693819 c 0,0.98188532 1.290806,4.416926 0.475327,5.8490867 -1.019263,1.7900506 -3.525601,1.5737553 -4.752855,1.5737553 -2.209139,0 -1.1784681,-4.8436661 -1.0628315,-6.96029582 0.1205108,-2.20584958 0.1025673,-5.36451138 2.3117065,-5.36451138 2.20914,0 3.028653,2.7390808 3.028653,4.9482198"
+       id="path37"
+       sodipodi:nodetypes="cssssc" />
+    <path
+       transform="matrix(1.416667,0,0,-1.416667,297.64,133.445)"
+       d="M-9-10H9L7 8H-7Z"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path35" />
+    <path
+       transform="matrix(1.416667,0,0,-1.416667,297.64,133.445)"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M -9,-10 H 9 L 6.8557096,7.8191197 -6.8201117,7.8609954 Z"
+       id="path36"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       transform="matrix(1.416667,0,0,-1.416667,297.64,133.445)"
+       d="M7 8C7 9.104569 3.865993 10 0 10-3.865993 10-7 9.104569-7 8-7 6.895431-3.865993 6 0 6 3.865993 6 7 6.895431 7 8"
+       fill="#b07b4a"
+       fill-rule="evenodd"
+       id="path38" />
+    <path
+       transform="matrix(1.416667,0,0,-1.416667,297.64,133.445)"
+       stroke-width=".7"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M7 8C7 9.104569 3.865993 10 0 10-3.865993 10-7 9.104569-7 8-7 6.895431-3.865993 6 0 6 3.865993 6 7 6.895431 7 8"
+       id="path39" />
+    <path
+       transform="matrix(1.416667,0,0,-1.416667,297.64,133.445)"
+       stroke-width="1.6"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#ffffff"
+       stroke-opacity=".9"
+       d="M-3 11C-6 14 0 16-3 20"
+       id="path40" />
+    <path
+       transform="matrix(1.416667,0,0,-1.416667,297.64,133.445)"
+       stroke-width="1.6"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#ffffff"
+       stroke-opacity=".9"
+       d="M3 11C0 14 6 16 3 20"
+       id="path41" />
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="14.5"
+       font-family="Caladea"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text41"><tspan
+         y="191.445"
+         x="297.640"
+         id="tspan41">Pause syndicale</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="9.8"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text42"><tspan
+         y="207.445"
+         x="297.640"
+         id="tspan42">« Je dis : thé. » Tout le monde boit un</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="9.8"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text43"><tspan
+         y="219.205"
+         x="297.640"
+         id="tspan43">thé imaginaire en silence pendant 5</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="9.8"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text44"><tspan
+         y="230.965"
+         x="297.640"
+         id="tspan44">secondes. Le premier qui rit recule de</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="9.8"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text45"><tspan
+         y="242.725"
+         x="297.640"
+         id="tspan45">2. Personne ne rit : avance de 3.</tspan></text>
+    <text
+       fill="#6a6590"
+       xml:space="preserve"
+       font-size="7.5"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text46"><tspan
+         y="284.445"
+         x="297.640"
+         id="tspan46">DOSSIER · E21</tspan></text>
+    <path
+       stroke-width="2.2"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#9aa0b5"
+       d="m 223.2043,70.827991 2.78346,-19.80536 c 0.83504,-5.941608 9.74745,-4.689051 8.91241,1.252557 l -3.6185,25.746968 c -0.83504,5.941608 -11.72798,4.410705 -10.89295,-1.530903 l 2.50512,-17.824824"
+       id="path46" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M396.14 545.445H557.14C562.1152 545.445 566.14 549.4698 566.14 554.445V785.445C566.14 790.4202 562.1152 794.445 557.14 794.445H396.14C391.1648 794.445 387.14 790.4202 387.14 785.445V554.445C387.14 549.4698 391.1648 545.445 396.14 545.445Z"
+       fill="#fff4dc"
+       fill-rule="evenodd"
+       id="path47" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width=".8"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#7a7596"
+       d="M396.14 545.445H557.14C562.1152 545.445 566.14 549.4698 566.14 554.445V785.445C566.14 790.4202 562.1152 794.445 557.14 794.445H396.14C391.1648 794.445 387.14 790.4202 387.14 785.445V554.445C387.14 549.4698 391.1648 545.445 396.14 545.445Z"
+       id="path48" />
+    <g
+       clip-path="url(#p7_clip_3)"
+       id="g49">
+      <path
+         transform="matrix(1,0,0,-1,0,841.89)"
+         d="M387.14 762.445H566.14V794.445H387.14Z"
+         fill="#1d1b3a"
+         fill-rule="evenodd"
+         id="path49" />
+    </g>
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       font-size="8"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text49"><tspan
+         y="67.445"
+         x="477.545"
+         letter-spacing="1.809"
+         word-spacing="-1.811"
+         id="tspan49">ÉVÉNEMENT · DOSSIER</tspan></text>
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M513.64 722.445C513.64 742.8795 497.0745 759.445 476.64 759.445 456.2055 759.445 439.64 742.8795 439.64 722.445 439.64 702.0105 456.2055 685.445 476.64 685.445 497.0745 685.445 513.64 702.0105 513.64 722.445"
+       fill="#6b49c8"
+       fill-opacity=".15"
+       fill-rule="evenodd"
+       id="path50" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M507.64 722.445C507.64 739.5658 493.7608 753.445 476.64 753.445 459.5192 753.445 445.64 739.5658 445.64 722.445 445.64 705.3242 459.5192 691.445 476.64 691.445 493.7608 691.445 507.64 705.3242 507.64 722.445"
+       fill="#6b49c8"
+       fill-opacity=".26"
+       fill-rule="evenodd"
+       id="path51" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M502.64 722.445C502.64 736.8044 490.9994 748.445 476.64 748.445 462.2806 748.445 450.64 736.8044 450.64 722.445 450.64 708.0856 462.2806 696.445 476.64 696.445 490.9994 696.445 502.64 708.0856 502.64 722.445"
+       fill="#6b49c8"
+       fill-rule="evenodd"
+       id="path52" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width="2"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M502.64 722.445C502.64 736.8044 490.9994 748.445 476.64 748.445 462.2806 748.445 450.64 736.8044 450.64 722.445 450.64 708.0856 462.2806 696.445 476.64 696.445 490.9994 696.445 502.64 708.0856 502.64 722.445"
+       id="path53" />
+    <path
+       transform="matrix(1.083333,0,0,-1.083333,476.64,119.44501)"
+       d="M-12-9H12C13.1056-9 14-8.1056 14-7V7C14 8.1056 13.1056 9 12 9H-12C-13.1056 9-14 8.1056-14 7V-7C-14-8.1056-13.1056-9-12-9Z"
+       fill="#ffe45c"
+       fill-rule="evenodd"
+       id="path54" />
+    <path
+       transform="matrix(1.083333,0,0,-1.083333,476.64,119.44501)"
+       stroke-width=".9"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M-12-9H12C13.1056-9 14-8.1056 14-7V7C14 8.1056 13.1056 9 12 9H-12C-13.1056 9-14 8.1056-14 7V-7C-14-8.1056-13.1056-9-12-9Z"
+       id="path55" />
+    <path
+       transform="matrix(1.083333,0,0,-1.083333,476.64,119.44501)"
+       stroke-width="1.1"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M-14 9 0-2 14 9"
+       id="path56" />
+    <text
+       fill="#d9334f"
+       xml:space="preserve"
+       transform="matrix(1.083333 0 -0 1.083333 476.64 119.44501)"
+       font-size="8"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text56"><tspan
+         y="6.000"
+         x="0"
+         id="tspan56">!</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="14.5"
+       font-family="Caladea"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text57"><tspan
+         y="164.445"
+         x="476.640"
+         id="tspan57">Avis de passage</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text58"><tspan
+         y="180.445"
+         x="476.640"
+         id="tspan58">Lou dépose un avis jaune. Lance le</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text59"><tspan
+         y="193.165"
+         x="476.640"
+         id="tspan59">dé : pair, elle est en avance :</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text60"><tspan
+         y="205.885"
+         x="476.640"
+         id="tspan60">avance de 3. Impair, elle est en</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text61"><tspan
+         y="218.605"
+         x="476.640"
+         id="tspan61">retard : recule d’1. Réponds «</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text62"><tspan
+         y="231.325"
+         x="476.640"
+         id="tspan62">Merci ! » avec sincérité.</tspan></text>
+    <text
+       fill="#6a6590"
+       xml:space="preserve"
+       font-size="7.5"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text63"><tspan
+         y="284.445"
+         x="476.640"
+         id="tspan63">DOSSIER · E22</tspan></text>
+    <path
+       stroke-width="2.2"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#9aa0b5"
+       d="m 405.16973,71.19867 2.78346,-19.80536 c 0.83504,-5.941608 9.74745,-4.689051 8.91241,1.252557 l -3.6185,25.746968 c -0.83503,5.941608 -11.72798,4.410705 -10.89294,-1.530903 l 2.50511,-17.824824"
+       id="path63" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M38.14 296.445H199.14C204.1152 296.445 208.14 300.4698 208.14 305.445V536.445C208.14 541.4202 204.1152 545.445 199.14 545.445H38.14C33.1648 545.445 29.14 541.4202 29.14 536.445V305.445C29.14 300.4698 33.1648 296.445 38.14 296.445Z"
+       fill="#fff4dc"
+       fill-rule="evenodd"
+       id="path64" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width=".8"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#7a7596"
+       d="M38.14 296.445H199.14C204.1152 296.445 208.14 300.4698 208.14 305.445V536.445C208.14 541.4202 204.1152 545.445 199.14 545.445H38.14C33.1648 545.445 29.14 541.4202 29.14 536.445V305.445C29.14 300.4698 33.1648 296.445 38.14 296.445Z"
+       id="path65" />
+    <g
+       clip-path="url(#p7_clip_4)"
+       id="g66">
+      <path
+         transform="matrix(1,0,0,-1,0,841.89)"
+         d="M29.14 513.445H208.14V545.445H29.14Z"
+         fill="#1d1b3a"
+         fill-rule="evenodd"
+         id="path66" />
+    </g>
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       font-size="8"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text66"><tspan
+         y="316.445"
+         x="119.545"
+         letter-spacing="1.809"
+         word-spacing="-1.811"
+         id="tspan66">ÉVÉNEMENT · DOSSIER</tspan></text>
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M155.64 473.445C155.64 493.8795 139.0745 510.445 118.64 510.445 98.20546 510.445 81.64 493.8795 81.64 473.445 81.64 453.0105 98.20546 436.445 118.64 436.445 139.0745 436.445 155.64 453.0105 155.64 473.445"
+       fill="#6b49c8"
+       fill-opacity=".15"
+       fill-rule="evenodd"
+       id="path67" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M149.64 473.445C149.64 490.5658 135.7608 504.445 118.64 504.445 101.5192 504.445 87.64 490.5658 87.64 473.445 87.64 456.3242 101.5192 442.445 118.64 442.445 135.7608 442.445 149.64 456.3242 149.64 473.445"
+       fill="#6b49c8"
+       fill-opacity=".26"
+       fill-rule="evenodd"
+       id="path68" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M144.64 473.445C144.64 487.8044 132.9994 499.445 118.64 499.445 104.2806 499.445 92.64 487.8044 92.64 473.445 92.64 459.0856 104.2806 447.445 118.64 447.445 132.9994 447.445 144.64 459.0856 144.64 473.445"
+       fill="#6b49c8"
+       fill-rule="evenodd"
+       id="path69" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width="2"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M144.64 473.445C144.64 487.8044 132.9994 499.445 118.64 499.445 104.2806 499.445 92.64 487.8044 92.64 473.445 92.64 459.0856 104.2806 447.445 118.64 447.445 132.9994 447.445 144.64 459.0856 144.64 473.445"
+       id="path70" />
+    <path
+       transform="matrix(1.083333,0,0,-1.083333,118.64,368.445)"
+       stroke-width="3.4"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#ffffff"
+       d="M6 10.3923 4.495279 11.12621 2.903063 11.64355 1.254342 11.93426-.418794 11.99269-2.083778 11.81769-3.708204 11.41268-5.260454 10.78553-6.710315 9.948451-8.029567 8.917738-9.192533 7.713451-10.17658 6.359031-10.96255 4.88084-11.53514 3.307648-11.88322 1.670077-12 0-11.88322-1.670077-11.53514-3.307648-10.96255-4.88084-10.17658-6.359031-9.192533-7.713451-8.029567-8.917738-6.710315-9.948451-5.260454-10.78553-3.708204-11.41268-2.083778-11.81769-.418794-11.99269 1.254342-11.93426 2.903063-11.64355 4.495279-11.12621 6-10.3923 7.387938-9.456129 8.632078-8.3359 9.708204-7.053423 10.59537-5.633659 11.27631-4.104242"
+       id="path71" />
+    <path
+       transform="matrix(1.083333,0,0,-1.083333,118.64,368.445)"
+       d="M8 18 18 6 4 4Z"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path72" />
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="14.5"
+       font-family="Caladea"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text72"><tspan
+         y="413.445"
+         x="118.640"
+         id="tspan72">Mise à jour</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="14.5"
+       font-family="Caladea"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text73"><tspan
+         y="429.445"
+         x="118.640"
+         id="tspan73">disponible !</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text74"><tspan
+         y="445.445"
+         x="118.640"
+         id="tspan74">Rémi clique sans lire : « Oui, oui,</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text75"><tspan
+         y="458.165"
+         x="118.640"
+         id="tspan75">OK. » Retourne tout de suite une</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text76"><tspan
+         y="470.885"
+         x="118.640"
+         id="tspan76">nouvelle carte Genre : elle</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text77"><tspan
+         y="483.605"
+         x="118.640"
+         id="tspan77">remplace le Genre en cours.</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text78"><tspan
+         y="496.325"
+         x="118.640"
+         id="tspan78">Avance d’1.</tspan></text>
+    <text
+       fill="#6a6590"
+       xml:space="preserve"
+       font-size="7.5"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text79"><tspan
+         y="533.445"
+         x="118.640"
+         id="tspan79">DOSSIER · E23</tspan></text>
+    <path
+       stroke-width="2.2"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#9aa0b5"
+       d="m 45.316335,319.4573 2.78346,-19.80536 c 0.835038,-5.94161 9.74745,-4.68905 8.912412,1.25256 l -3.618498,25.74697 c -0.835038,5.94161 -11.727986,4.4107 -10.892948,-1.53091 l 2.505114,-17.82482"
+       id="path79" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M217.14 296.445H378.14C383.1152 296.445 387.14 300.4698 387.14 305.445V536.445C387.14 541.4202 383.1152 545.445 378.14 545.445H217.14C212.1648 545.445 208.14 541.4202 208.14 536.445V305.445C208.14 300.4698 212.1648 296.445 217.14 296.445Z"
+       fill="#fff4dc"
+       fill-rule="evenodd"
+       id="path80" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width=".8"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#7a7596"
+       d="M217.14 296.445H378.14C383.1152 296.445 387.14 300.4698 387.14 305.445V536.445C387.14 541.4202 383.1152 545.445 378.14 545.445H217.14C212.1648 545.445 208.14 541.4202 208.14 536.445V305.445C208.14 300.4698 212.1648 296.445 217.14 296.445Z"
+       id="path81" />
+    <g
+       clip-path="url(#p7_clip_5)"
+       id="g82">
+      <path
+         transform="matrix(1,0,0,-1,0,841.89)"
+         d="M208.14 513.445H387.14V545.445H208.14Z"
+         fill="#1d1b3a"
+         fill-rule="evenodd"
+         id="path82" />
+    </g>
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       font-size="8"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text82"><tspan
+         y="316.445"
+         x="298.545"
+         letter-spacing="1.809"
+         word-spacing="-1.811"
+         id="tspan82">ÉVÉNEMENT · DOSSIER</tspan></text>
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M342.64 459.445C342.64 484.2978 322.4928 504.445 297.64 504.445 272.7872 504.445 252.64 484.2978 252.64 459.445 252.64 434.5922 272.7872 414.445 297.64 414.445 322.4928 414.445 342.64 434.5922 342.64 459.445"
+       fill="#6b49c8"
+       fill-opacity=".15"
+       fill-rule="evenodd"
+       id="path83" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M336.64 459.445C336.64 480.9841 319.1791 498.445 297.64 498.445 276.1009 498.445 258.64 480.9841 258.64 459.445 258.64 437.9059 276.1009 420.445 297.64 420.445 319.1791 420.445 336.64 437.9059 336.64 459.445"
+       fill="#6b49c8"
+       fill-opacity=".26"
+       fill-rule="evenodd"
+       id="path84" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M331.64 459.445C331.64 478.2227 316.4177 493.445 297.64 493.445 278.8623 493.445 263.64 478.2227 263.64 459.445 263.64 440.6673 278.8623 425.445 297.64 425.445 316.4177 425.445 331.64 440.6673 331.64 459.445"
+       fill="#6b49c8"
+       fill-rule="evenodd"
+       id="path85" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width="2"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M331.64 459.445C331.64 478.2227 316.4177 493.445 297.64 493.445 278.8623 493.445 263.64 478.2227 263.64 459.445 263.64 440.6673 278.8623 425.445 297.64 425.445 316.4177 425.445 331.64 440.6673 331.64 459.445"
+       id="path86" />
+    <path
+       transform="matrix(1.227778,0,0,-1.227778,297.64,382.445)"
+       d="M-11-14H11C12.1056-14 13-13.1056 13-12V12C13 13.1056 12.1056 14 11 14H-11C-12.1056 14-13 13.1056-13 12V-12C-13-13.1056-12.1056-14-11-14Z"
+       fill="#b5793c"
+       fill-rule="evenodd"
+       id="path87" />
+    <path
+       transform="matrix(1.227778,0,0,-1.227778,297.64,382.445)"
+       stroke-width=".9"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M-11-14H11C12.1056-14 13-13.1056 13-12V12C13 13.1056 12.1056 14 11 14H-11C-12.1056 14-13 13.1056-13 12V-12C-13-13.1056-12.1056-14-11-14Z"
+       id="path88" />
+    <path
+       transform="matrix(1.227778,0,0,-1.227778,297.64,382.445)"
+       d="M-9-11H9C9.5528-11 10-10.5528 10-10V-2C10-1.4472 9.5528-1 9-1H-9C-9.5528-1-10-1.4472-10-2V-10C-10-10.5528-9.5528-11-9-11Z"
+       fill="#c98b4a"
+       fill-rule="evenodd"
+       id="path89" />
+    <path
+       transform="matrix(1.227778,0,0,-1.227778,297.64,382.445)"
+       stroke-width=".8"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M-9-11H9C9.5528-11 10-10.5528 10-10V-2C10-1.4472 9.5528-1 9-1H-9C-9.5528-1-10-1.4472-10-2V-10C-10-10.5528-9.5528-11-9-11Z"
+       id="path90" />
+    <path
+       transform="matrix(1.227778,0,0,-1.227778,297.64,382.445)"
+       d="M-9 2H9C9.5528 2 10 2.4472 10 3V10C10 10.5528 9.5528 11 9 11H-9C-9.5528 11-10 10.5528-10 10V3C-10 2.4472-9.5528 2-9 2Z"
+       fill="#c98b4a"
+       fill-rule="evenodd"
+       id="path91" />
+    <path
+       transform="matrix(1.227778,0,0,-1.227778,297.64,382.445)"
+       stroke-width=".8"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M-9 2H9C9.5528 2 10 2.4472 10 3V10C10 10.5528 9.5528 11 9 11H-9C-9.5528 11-10 10.5528-10 10V3C-10 2.4472-9.5528 2-9 2Z"
+       id="path92" />
+    <path
+       transform="matrix(1.227778,0,0,-1.227778,297.64,382.445)"
+       d="M1.8-6C1.8-5.005887 .994113-4.2 0-4.2-.994113-4.2-1.8-5.005887-1.8-6-1.8-6.994113-.994113-7.8 0-7.8 .994113-7.8 1.8-6.994113 1.8-6"
+       fill="#f2b705"
+       fill-rule="evenodd"
+       id="path93" />
+    <path
+       transform="matrix(1.227778,0,0,-1.227778,297.64,382.445)"
+       stroke-width=".7"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M1.8-6C1.8-5.005887 .994113-4.2 0-4.2-.994113-4.2-1.8-5.005887-1.8-6-1.8-6.994113-.994113-7.8 0-7.8 .994113-7.8 1.8-6.994113 1.8-6"
+       id="path94" />
+    <path
+       transform="matrix(1.227778,0,0,-1.227778,297.64,382.445)"
+       d="M1.8 6.5C1.8 7.494113 .994113 8.3 0 8.3-.994113 8.3-1.8 7.494113-1.8 6.5-1.8 5.505887-.994113 4.7 0 4.7 .994113 4.7 1.8 5.505887 1.8 6.5"
+       fill="#f2b705"
+       fill-rule="evenodd"
+       id="path95" />
+    <path
+       transform="matrix(1.227778,0,0,-1.227778,297.64,382.445)"
+       stroke-width=".7"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M1.8 6.5C1.8 7.494113 .994113 8.3 0 8.3-.994113 8.3-1.8 7.494113-1.8 6.5-1.8 5.505887-.994113 4.7 0 4.7 .994113 4.7 1.8 5.505887 1.8 6.5"
+       id="path96" />
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="14.5"
+       font-family="Caladea"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text97"><tspan
+         y="440.445"
+         x="297.640"
+         id="tspan97">Le tiroir du bas</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text98"><tspan
+         y="456.445"
+         x="297.640"
+         id="tspan98">« La clé est dans le tiroir du bas.</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text99"><tspan
+         y="469.165"
+         x="297.640"
+         id="tspan99">Celle que tu allais demander. »</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text100"><tspan
+         y="481.885"
+         x="297.640"
+         id="tspan100">Pioche 2 Événements, applique-en</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text101"><tspan
+         y="494.605"
+         x="297.640"
+         id="tspan101">un et glisse l’autre sous la pioche.</tspan></text>
+    <text
+       fill="#6a6590"
+       xml:space="preserve"
+       font-size="7.5"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text102"><tspan
+         y="533.445"
+         x="297.640"
+         id="tspan102">DOSSIER · E24</tspan></text>
+    <path
+       stroke-width="2.2"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#9aa0b5"
+       d="m 226.54041,320.56934 2.78346,-19.80536 c 0.83504,-5.94161 9.74745,-4.68905 8.91241,1.25256 l -3.6185,25.74696 c -0.83504,5.94161 -11.72798,4.41071 -10.89295,-1.5309 l 2.50512,-17.82482"
+       id="path102" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M396.14 296.445H557.14C562.1152 296.445 566.14 300.4698 566.14 305.445V536.445C566.14 541.4202 562.1152 545.445 557.14 545.445H396.14C391.1648 545.445 387.14 541.4202 387.14 536.445V305.445C387.14 300.4698 391.1648 296.445 396.14 296.445Z"
+       fill="#fff4dc"
+       fill-rule="evenodd"
+       id="path103" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width=".8"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#7a7596"
+       d="M396.14 296.445H557.14C562.1152 296.445 566.14 300.4698 566.14 305.445V536.445C566.14 541.4202 562.1152 545.445 557.14 545.445H396.14C391.1648 545.445 387.14 541.4202 387.14 536.445V305.445C387.14 300.4698 391.1648 296.445 396.14 296.445Z"
+       id="path104" />
+    <g
+       clip-path="url(#p7_clip_6)"
+       id="g105">
+      <path
+         transform="matrix(1,0,0,-1,0,841.89)"
+         d="M387.14 507.445H566.14V545.445H387.14Z"
+         fill="#b0185a"
+         fill-rule="evenodd"
+         id="path105" />
+    </g>
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       font-size="12"
+       font-family="Caladea"
+       font-weight="bold"
+       font-style="italic"
+       text-anchor="middle"
+       id="text105"><tspan
+         y="312.445"
+         x="476.640"
+         id="tspan105">C’ÉTAIT ÉCRIT !</tspan></text>
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       font-size="6.8"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text106"><tspan
+         y="324.445"
+         x="477.409"
+         letter-spacing="1.538"
+         id="tspan106">REBONDISSEMENT</tspan></text>
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M513.64 467.445C513.64 487.8795 497.0745 504.445 476.64 504.445 456.2055 504.445 439.64 487.8795 439.64 467.445 439.64 447.0105 456.2055 430.445 476.64 430.445 497.0745 430.445 513.64 447.0105 513.64 467.445"
+       fill="#b0185a"
+       fill-opacity=".15"
+       fill-rule="evenodd"
+       id="path106" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M507.64 467.445C507.64 484.5658 493.7608 498.445 476.64 498.445 459.5192 498.445 445.64 484.5658 445.64 467.445 445.64 450.3242 459.5192 436.445 476.64 436.445 493.7608 436.445 507.64 450.3242 507.64 467.445"
+       fill="#b0185a"
+       fill-opacity=".26"
+       fill-rule="evenodd"
+       id="path107" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M502.64 467.445C502.64 481.8044 490.9994 493.445 476.64 493.445 462.2806 493.445 450.64 481.8044 450.64 467.445 450.64 453.0856 462.2806 441.445 476.64 441.445 490.9994 441.445 502.64 453.0856 502.64 467.445"
+       fill="#b0185a"
+       fill-rule="evenodd"
+       id="path108" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width="2"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M502.64 467.445C502.64 481.8044 490.9994 493.445 476.64 493.445 462.2806 493.445 450.64 481.8044 450.64 467.445 450.64 453.0856 462.2806 441.445 476.64 441.445 490.9994 441.445 502.64 453.0856 502.64 467.445"
+       id="path109" />
+    <path
+       transform="matrix(1.011111,0,0,-1.011111,476.64,374.445)"
+       d="M-9-15H9C10.1056-15 11-14.1056 11-13V12C11 13.1056 10.1056 14 9 14H-9C-10.1056 14-11 13.1056-11 12V-13C-11-14.1056-10.1056-15-9-15Z"
+       fill="#8a5a32"
+       fill-rule="evenodd"
+       id="path110" />
+    <path
+       transform="matrix(1.011111,0,0,-1.011111,476.64,374.445)"
+       stroke-width=".9"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M-9-15H9C10.1056-15 11-14.1056 11-13V12C11 13.1056 10.1056 14 9 14H-9C-10.1056 14-11 13.1056-11 12V-13C-11-14.1056-10.1056-15-9-15Z"
+       id="path111" />
+    <path
+       transform="matrix(1.011111,0,0,-1.011111,476.64,374.445)"
+       d="M-8.5-12H8.5V11H-8.5Z"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path112" />
+    <path
+       transform="matrix(1.011111,0,0,-1.011111,476.64,374.445)"
+       stroke-width=".7"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M-8.5-12H8.5V11H-8.5Z"
+       id="path113" />
+    <path
+       transform="matrix(1.011111,0,0,-1.011111,476.64,374.445)"
+       stroke-width=".9"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#9aa0b5"
+       d="M-6 6H6"
+       id="path114" />
+    <path
+       transform="matrix(1.011111,0,0,-1.011111,476.64,374.445)"
+       stroke-width=".9"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#9aa0b5"
+       d="M-6 1H6"
+       id="path115" />
+    <path
+       transform="matrix(1.011111,0,0,-1.011111,476.64,374.445)"
+       stroke-width=".9"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#9aa0b5"
+       d="M-6-4H6"
+       id="path116" />
+    <path
+       transform="matrix(1.011111,0,0,-1.011111,476.64,374.445)"
+       stroke-width=".9"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#9aa0b5"
+       d="M-6-9H6"
+       id="path117" />
+    <path
+       transform="matrix(1.011111,0,0,-1.011111,476.64,374.445)"
+       d="M-3 11H3C3.5528 11 4 11.4472 4 12V15C4 15.5528 3.5528 16 3 16H-3C-3.5528 16-4 15.5528-4 15V12C-4 11.4472-3.5528 11-3 11Z"
+       fill="#f2b705"
+       fill-rule="evenodd"
+       id="path118" />
+    <path
+       transform="matrix(1.011111,0,0,-1.011111,476.64,374.445)"
+       stroke-width=".8"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M-3 11H3C3.5528 11 4 11.4472 4 12V15C4 15.5528 3.5528 16 3 16H-3C-3.5528 16-4 15.5528-4 15V12C-4 11.4472-3.5528 11-3 11Z"
+       id="path119" />
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="14.5"
+       font-family="Caladea"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text119"><tspan
+         y="419.445"
+         x="476.640"
+         id="tspan119">Audit surprise</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.2"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text120"><tspan
+         y="435.445"
+         x="476.640"
+         id="tspan120">L’auditrice clique son stylo : «</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.2"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text121"><tspan
+         y="447.685"
+         x="476.640"
+         id="tspan121">Convainquez-moi de ne pas fermer.</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.2"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text122"><tspan
+         y="459.925"
+         x="476.640"
+         id="tspan122">» Plaide ta cause en 10 secondes. La</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.2"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text123"><tspan
+         y="472.165"
+         x="476.640"
+         id="tspan123">table vote : majorité pour toi, recule</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.2"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text124"><tspan
+         y="484.405"
+         x="476.640"
+         id="tspan124">d’1 seulement. Sinon, recule de 3.</tspan></text>
+    <text
+       fill="#4a4570"
+       xml:space="preserve"
+       font-size="7.8"
+       font-family="Carlito"
+       font-style="italic"
+       text-anchor="middle"
+       id="text125"><tspan
+         y="513.445"
+         x="476.640"
+         id="tspan125">Pour la cible de la prophétie</tspan></text>
+    <text
+       fill="#6a6590"
+       xml:space="preserve"
+       font-size="7.5"
+       font-family="Carlito"
+       font-weight="bold"
+       id="text126"><tspan
+         y="533.445"
+         x="401.140"
+         id="tspan126">DOSSIER R17</tspan></text>
+    <path
+       transform="matrix(.990268,-.139173,-.139173,-.990268,514.14,531.445)"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#b0185a"
+       stroke-opacity=".5"
+       d="M-20.41973-5H20.41973C21.24893-5 21.91973-4.3292 21.91973-3.5V3.5C21.91973 4.3292 21.24893 5 20.41973 5H-20.41973C-21.24893 5-21.91973 4.3292-21.91973 3.5V-3.5C-21.91973-4.3292-21.24893-5-20.41973-5Z"
+       id="path126" />
+    <text
+       fill="#b0185a"
+       fill-opacity=".5"
+       xml:space="preserve"
+       transform="matrix(.990268 -.139173 .139173 .990268 514.14 531.445)"
+       font-size="5.6"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text127"><tspan
+         y="2.000"
+         x="0"
+         id="tspan127">CONSTAT N° 17</tspan></text>
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M38.14 47.445H199.14C204.1152 47.445 208.14 51.4698 208.14 56.445V287.445C208.14 292.4202 204.1152 296.445 199.14 296.445H38.14C33.1648 296.445 29.14 292.4202 29.14 287.445V56.445C29.14 51.4698 33.1648 47.445 38.14 47.445Z"
+       fill="#fff4dc"
+       fill-rule="evenodd"
+       id="path128" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width=".8"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#7a7596"
+       d="M38.14 47.445H199.14C204.1152 47.445 208.14 51.4698 208.14 56.445V287.445C208.14 292.4202 204.1152 296.445 199.14 296.445H38.14C33.1648 296.445 29.14 292.4202 29.14 287.445V56.445C29.14 51.4698 33.1648 47.445 38.14 47.445Z"
+       id="path129" />
+    <g
+       clip-path="url(#p7_clip_7)"
+       id="g130">
+      <path
+         transform="matrix(1,0,0,-1,0,841.89)"
+         d="M29.14 264.445H208.14V296.445H29.14Z"
+         fill="#6b49c8"
+         fill-rule="evenodd"
+         id="path130" />
+    </g>
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       font-size="8"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text130"><tspan
+         y="565.445"
+         x="119.544"
+         letter-spacing="1.809"
+         word-spacing="-1.808"
+         id="tspan130">GENRE · DOSSIER</tspan></text>
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M155.64 222.445C155.64 242.8795 139.0745 259.445 118.64 259.445 98.20546 259.445 81.64 242.8795 81.64 222.445 81.64 202.0105 98.20546 185.445 118.64 185.445 139.0745 185.445 155.64 202.0105 155.64 222.445"
+       fill="#6b49c8"
+       fill-opacity=".15"
+       fill-rule="evenodd"
+       id="path131" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M149.64 222.445C149.64 239.5658 135.7608 253.445 118.64 253.445 101.5192 253.445 87.64 239.5658 87.64 222.445 87.64 205.3242 101.5192 191.445 118.64 191.445 135.7608 191.445 149.64 205.3242 149.64 222.445"
+       fill="#6b49c8"
+       fill-opacity=".26"
+       fill-rule="evenodd"
+       id="path132" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M144.64 222.445C144.64 236.8044 132.9994 248.445 118.64 248.445 104.2806 248.445 92.64 236.8044 92.64 222.445 92.64 208.0856 104.2806 196.445 118.64 196.445 132.9994 196.445 144.64 208.0856 144.64 222.445"
+       fill="#6b49c8"
+       fill-rule="evenodd"
+       id="path133" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width="2"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M144.64 222.445C144.64 236.8044 132.9994 248.445 118.64 248.445 104.2806 248.445 92.64 236.8044 92.64 222.445 92.64 208.0856 104.2806 196.445 118.64 196.445 132.9994 196.445 144.64 208.0856 144.64 222.445"
+       id="path134" />
+    <path
+       transform="matrix(1.083333,0,0,-1.083333,118.64,619.445)"
+       d="M-15-12V12H-5L-2 8H15V-12Z"
+       fill="#f2b705"
+       fill-rule="evenodd"
+       id="path135" />
+    <path
+       transform="matrix(1.083333,0,0,-1.083333,118.64,619.445)"
+       stroke-width="1.1"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M-15-12V12H-5L-2 8H15V-12Z"
+       id="path136" />
+    <path
+       transform="matrix(1.083333,0,0,-1.083333,118.64,619.445)"
+       d="M-13-12H15V5H-13Z"
+       fill="#ffd966"
+       fill-rule="evenodd"
+       id="path137" />
+    <path
+       transform="matrix(1.083333,0,0,-1.083333,118.64,619.445)"
+       stroke-width=".9"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M-13-12H15V5H-13Z"
+       id="path138" />
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="19"
+       font-family="Caladea"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text139"><tspan
+         y="665.445"
+         x="118.640"
+         id="tspan139">BUREAU</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text140"><tspan
+         y="681.445"
+         x="118.640"
+         id="tspan140">Avant de lancer ton dé, dis « Je</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text141"><tspan
+         y="694.165"
+         x="118.640"
+         id="tspan141">m’en occupe » (oublié : ton dé</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text142"><tspan
+         y="706.885"
+         x="118.640"
+         id="tspan142">vaut 1 de moins). Ou dis « Je</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text143"><tspan
+         y="719.605"
+         x="118.640"
+         id="tspan143">reviens lundi » : tu ne bouges pas</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text144"><tspan
+         y="732.325"
+         x="118.640"
+         id="tspan144">ce tour-ci, mais tu gagnes une</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text145"><tspan
+         y="745.045"
+         x="118.640"
+         id="tspan145">Armure.</tspan></text>
+    <text
+       fill="#4a4570"
+       xml:space="preserve"
+       font-size="8.2"
+       font-family="Carlito"
+       font-style="italic"
+       text-anchor="middle"
+       id="text146"><tspan
+         y="772.445"
+         x="118.640"
+         id="tspan146">Dure jusqu’au prochain Genre.</tspan></text>
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M196.14 67.445C196.14 71.86328 192.5583 75.445 188.14 75.445 183.7217 75.445 180.14 71.86328 180.14 67.445 180.14 63.02672 183.7217 59.445 188.14 59.445 192.5583 59.445 196.14 63.02672 196.14 67.445"
+       fill="#efe8ff"
+       fill-rule="evenodd"
+       id="path146" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#6b49c8"
+       d="M196.14 67.445C196.14 71.86328 192.5583 75.445 188.14 75.445 183.7217 75.445 180.14 71.86328 180.14 67.445 180.14 63.02672 183.7217 59.445 188.14 59.445 192.5583 59.445 196.14 63.02672 196.14 67.445"
+       id="path147" />
+    <text
+       fill="#6b49c8"
+       xml:space="preserve"
+       font-size="9"
+       font-family="Carlito"
+       font-weight="bold"
+       id="text147"><tspan
+         y="777.445"
+         x="185.413"
+         id="tspan147">A</tspan></text>
+    <path
+       stroke-width="2.2"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#9aa0b5"
+       d="M 43.46294,569.19866 46.2464,549.3933 c 0.835038,-5.94161 9.74745,-4.68905 8.912412,1.25256 l -3.618498,25.74697 c -0.835038,5.9416 -11.727986,4.4107 -10.892948,-1.53091 L 43.15248,557.0371"
+       id="path148" />
+    <text
+       fill="#6a6590"
+       xml:space="preserve"
+       font-size="7.5"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text148"><tspan
+         y="819.890"
+         x="297.640"
+         id="tspan148">Cartes v0.5 (suite) · page 7/8 · Dossier Gérard (extension facultative) · imprime en taille réelle (100 %), recto seul · découpe sur les traits</tspan></text>
+  </g>
+</svg>

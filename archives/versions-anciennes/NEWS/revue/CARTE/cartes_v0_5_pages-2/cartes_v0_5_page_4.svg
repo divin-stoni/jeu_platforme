@@ -1,0 +1,2483 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 595.28 841.89"
+   width="210.00mm"
+   height="297.00mm"
+   id="svg227"
+   sodipodi:docname="cartes_v0_5_page_4.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs227" />
+  <sodipodi:namedview
+     id="namedview227"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1"
+     inkscape:cx="668"
+     inkscape:cy="937.5"
+     inkscape:window-width="1853"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="page_4" />
+  <g
+     id="page_4"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 4 · Rebondissements R01 à R09">
+    <rect
+       x="0"
+       y="0"
+       width="595.28"
+       height="841.89"
+       fill="#ffffff"
+       id="fond_page_4" />
+    <defs
+       id="defs10">
+      <clipPath
+         id="p4_clip_1">
+        <path
+           transform="matrix(1,0,0,-1,0,841.89)"
+           d="M38.14 756.445H199.14C204.1152 756.445 208.14 760.4698 208.14 765.445V785.445C208.14 790.4202 204.1152 794.445 199.14 794.445H38.14C33.1648 794.445 29.14 790.4202 29.14 785.445V765.445C29.14 760.4698 33.1648 756.445 38.14 756.445Z"
+           clip-rule="evenodd"
+           id="path1" />
+      </clipPath>
+      <clipPath
+         id="p4_clip_2">
+        <path
+           transform="matrix(1,0,0,-1,0,841.89)"
+           d="M217.14 756.445H378.14C383.1152 756.445 387.14 760.4698 387.14 765.445V785.445C387.14 790.4202 383.1152 794.445 378.14 794.445H217.14C212.1648 794.445 208.14 790.4202 208.14 785.445V765.445C208.14 760.4698 212.1648 756.445 217.14 756.445Z"
+           clip-rule="evenodd"
+           id="path2" />
+      </clipPath>
+      <clipPath
+         id="p4_clip_3">
+        <path
+           transform="matrix(1,0,0,-1,0,841.89)"
+           d="M396.14 756.445H557.14C562.1152 756.445 566.14 760.4698 566.14 765.445V785.445C566.14 790.4202 562.1152 794.445 557.14 794.445H396.14C391.1648 794.445 387.14 790.4202 387.14 785.445V765.445C387.14 760.4698 391.1648 756.445 396.14 756.445Z"
+           clip-rule="evenodd"
+           id="path3" />
+      </clipPath>
+      <clipPath
+         id="p4_clip_4">
+        <path
+           transform="matrix(1,0,0,-1,0,841.89)"
+           d="M38.14 507.445H199.14C204.1152 507.445 208.14 511.4698 208.14 516.445V536.445C208.14 541.4202 204.1152 545.445 199.14 545.445H38.14C33.1648 545.445 29.14 541.4202 29.14 536.445V516.445C29.14 511.4698 33.1648 507.445 38.14 507.445Z"
+           clip-rule="evenodd"
+           id="path4" />
+      </clipPath>
+      <clipPath
+         id="p4_clip_5">
+        <path
+           transform="matrix(1,0,0,-1,0,841.89)"
+           d="M217.14 507.445H378.14C383.1152 507.445 387.14 511.4698 387.14 516.445V536.445C387.14 541.4202 383.1152 545.445 378.14 545.445H217.14C212.1648 545.445 208.14 541.4202 208.14 536.445V516.445C208.14 511.4698 212.1648 507.445 217.14 507.445Z"
+           clip-rule="evenodd"
+           id="path5" />
+      </clipPath>
+      <clipPath
+         id="p4_clip_6">
+        <path
+           transform="matrix(1,0,0,-1,0,841.89)"
+           d="M396.14 507.445H557.14C562.1152 507.445 566.14 511.4698 566.14 516.445V536.445C566.14 541.4202 562.1152 545.445 557.14 545.445H396.14C391.1648 545.445 387.14 541.4202 387.14 536.445V516.445C387.14 511.4698 391.1648 507.445 396.14 507.445Z"
+           clip-rule="evenodd"
+           id="path6" />
+      </clipPath>
+      <clipPath
+         id="p4_clip_7">
+        <path
+           transform="matrix(1,0,0,-1,0,841.89)"
+           d="M38.14 258.445H199.14C204.1152 258.445 208.14 262.4698 208.14 267.445V287.445C208.14 292.4202 204.1152 296.445 199.14 296.445H38.14C33.1648 296.445 29.14 292.4202 29.14 287.445V267.445C29.14 262.4698 33.1648 258.445 38.14 258.445Z"
+           clip-rule="evenodd"
+           id="path7" />
+      </clipPath>
+      <clipPath
+         id="p4_clip_8">
+        <path
+           transform="matrix(.8594444,0,0,-.8594444,118.64,623.445)"
+           d="M20 0C20 11.04569 11.04569 20 0 20-11.04569 20-20 11.04569-20 0-20-11.04569-11.04569-20 0-20 11.04569-20 20-11.04569 20 0"
+           clip-rule="evenodd"
+           id="path8" />
+      </clipPath>
+      <clipPath
+         id="p4_clip_9">
+        <path
+           transform="matrix(1,0,0,-1,0,841.89)"
+           d="M217.14 258.445H378.14C383.1152 258.445 387.14 262.4698 387.14 267.445V287.445C387.14 292.4202 383.1152 296.445 378.14 296.445H217.14C212.1648 296.445 208.14 292.4202 208.14 287.445V267.445C208.14 262.4698 212.1648 258.445 217.14 258.445Z"
+           clip-rule="evenodd"
+           id="path9" />
+      </clipPath>
+      <clipPath
+         id="p4_clip_10">
+        <path
+           transform="matrix(1,0,0,-1,0,841.89)"
+           d="M396.14 258.445H557.14C562.1152 258.445 566.14 262.4698 566.14 267.445V287.445C566.14 292.4202 562.1152 296.445 557.14 296.445H396.14C391.1648 296.445 387.14 292.4202 387.14 287.445V267.445C387.14 262.4698 391.1648 258.445 396.14 258.445Z"
+           clip-rule="evenodd"
+           id="path10" />
+      </clipPath>
+    </defs>
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M38.14 545.445H199.14C204.1152 545.445 208.14 549.4698 208.14 554.445V785.445C208.14 790.4202 204.1152 794.445 199.14 794.445H38.14C33.1648 794.445 29.14 790.4202 29.14 785.445V554.445C29.14 549.4698 33.1648 545.445 38.14 545.445Z"
+       fill="#fff4dc"
+       fill-rule="evenodd"
+       id="path11" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width=".8"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#7a7596"
+       d="M38.14 545.445H199.14C204.1152 545.445 208.14 549.4698 208.14 554.445V785.445C208.14 790.4202 204.1152 794.445 199.14 794.445H38.14C33.1648 794.445 29.14 790.4202 29.14 785.445V554.445C29.14 549.4698 33.1648 545.445 38.14 545.445Z"
+       id="path12" />
+    <g
+       clip-path="url(#p4_clip_1)"
+       id="g13">
+      <path
+         transform="matrix(1,0,0,-1,0,841.89)"
+         d="M29.14 756.445H208.14V794.445H29.14Z"
+         fill="#b0185a"
+         fill-rule="evenodd"
+         id="path13" />
+    </g>
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       font-size="12"
+       font-family="Caladea"
+       font-weight="bold"
+       font-style="italic"
+       text-anchor="middle"
+       id="text13"><tspan
+         y="63.445"
+         x="118.640"
+         id="tspan13">C’ÉTAIT ÉCRIT !</tspan></text>
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       font-size="6.8"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text14"><tspan
+         y="75.445"
+         x="119.409"
+         letter-spacing="1.538"
+         id="tspan14">REBONDISSEMENT</tspan></text>
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M155.64 716.445C155.64 736.8795 139.0745 753.445 118.64 753.445 98.20546 753.445 81.64 736.8795 81.64 716.445 81.64 696.0105 98.20546 679.445 118.64 679.445 139.0745 679.445 155.64 696.0105 155.64 716.445"
+       fill="#b0185a"
+       fill-opacity=".15"
+       fill-rule="evenodd"
+       id="path14" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M149.64 716.445C149.64 733.5658 135.7608 747.445 118.64 747.445 101.5192 747.445 87.64 733.5658 87.64 716.445 87.64 699.3242 101.5192 685.445 118.64 685.445 135.7608 685.445 149.64 699.3242 149.64 716.445"
+       fill="#b0185a"
+       fill-opacity=".26"
+       fill-rule="evenodd"
+       id="path15" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M144.64 716.445C144.64 730.8044 132.9994 742.445 118.64 742.445 104.2806 742.445 92.64 730.8044 92.64 716.445 92.64 702.0856 104.2806 690.445 118.64 690.445 132.9994 690.445 144.64 702.0856 144.64 716.445"
+       fill="#b0185a"
+       fill-rule="evenodd"
+       id="path16" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width="2"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M144.64 716.445C144.64 730.8044 132.9994 742.445 118.64 742.445 104.2806 742.445 92.64 730.8044 92.64 716.445 92.64 702.0856 104.2806 690.445 118.64 690.445 132.9994 690.445 144.64 702.0856 144.64 716.445"
+       id="path17" />
+    <path
+       transform="matrix(1.083333,0,0,-1.083333,118.64,125.44501)"
+       d="M-11-11H11V11H-11Z"
+       fill="#f7e9c6"
+       fill-rule="evenodd"
+       id="path18" />
+    <path
+       transform="matrix(1.083333,0,0,-1.083333,118.64,125.44501)"
+       stroke-width=".9"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M-11-11H11V11H-11Z"
+       id="path19" />
+    <path
+       transform="matrix(1.083333,0,0,-1.083333,118.64,125.44501)"
+       d="M11 11C11 12.43594 6.075132 13.6 0 13.6-6.075132 13.6-11 12.43594-11 11-11 9.56406-6.075132 8.4 0 8.4 6.075132 8.4 11 9.56406 11 11"
+       fill="#e8d4a0"
+       fill-rule="evenodd"
+       id="path20" />
+    <path
+       transform="matrix(1.083333,0,0,-1.083333,118.64,125.44501)"
+       stroke-width=".9"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M11 11C11 12.43594 6.075132 13.6 0 13.6-6.075132 13.6-11 12.43594-11 11-11 9.56406-6.075132 8.4 0 8.4 6.075132 8.4 11 9.56406 11 11"
+       id="path21" />
+    <path
+       transform="matrix(1.083333,0,0,-1.083333,118.64,125.44501)"
+       d="M11-11C11-9.56406 6.075132-8.4 0-8.4-6.075132-8.4-11-9.56406-11-11-11-12.43594-6.075132-13.6 0-13.6 6.075132-13.6 11-12.43594 11-11"
+       fill="#e8d4a0"
+       fill-rule="evenodd"
+       id="path22" />
+    <path
+       transform="matrix(1.083333,0,0,-1.083333,118.64,125.44501)"
+       stroke-width=".9"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M11-11C11-9.56406 6.075132-8.4 0-8.4-6.075132-8.4-11-9.56406-11-11-11-12.43594-6.075132-13.6 0-13.6 6.075132-13.6 11-12.43594 11-11"
+       id="path23" />
+    <path
+       transform="matrix(1.083333,0,0,-1.083333,118.64,125.44501)"
+       stroke-width=".9"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#8a6a2a"
+       d="M-7 5H7"
+       id="path24" />
+    <path
+       transform="matrix(1.083333,0,0,-1.083333,118.64,125.44501)"
+       stroke-width=".9"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#8a6a2a"
+       d="M-7 0H7"
+       id="path25" />
+    <path
+       transform="matrix(1.083333,0,0,-1.083333,118.64,125.44501)"
+       stroke-width=".9"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#8a6a2a"
+       d="M-7-5H7"
+       id="path26" />
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="14.5"
+       font-family="Caladea"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text26"><tspan
+         y="170.445"
+         x="118.640"
+         id="tspan26">Le méchant explique</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="14.5"
+       font-family="Caladea"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text27"><tspan
+         y="186.445"
+         x="118.640"
+         id="tspan27">son plan</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text28"><tspan
+         y="202.445"
+         x="118.640"
+         id="tspan28">Recule de 2. Pendant 10 secondes,</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text29"><tspan
+         y="215.165"
+         x="118.640"
+         id="tspan29">le Scénariste t’explique son plan de</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text30"><tspan
+         y="227.885"
+         x="118.640"
+         id="tspan30">méchant. Interdit de l’interrompre.</tspan></text>
+    <text
+       fill="#4a4570"
+       xml:space="preserve"
+       font-size="7.8"
+       font-family="Carlito"
+       font-style="italic"
+       text-anchor="middle"
+       id="text31"><tspan
+         y="264.445"
+         x="118.640"
+         id="tspan31">Pour la cible de la prophétie</tspan></text>
+    <text
+       fill="#6a6590"
+       xml:space="preserve"
+       font-size="7.5"
+       font-family="Carlito"
+       font-weight="bold"
+       id="text32"><tspan
+         y="284.445"
+         x="43.140"
+         id="tspan32">R01</tspan></text>
+    <path
+       transform="matrix(.990268,-.139173,-.139173,-.990268,156.14,282.445)"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#b0185a"
+       stroke-opacity=".5"
+       d="M-20.41973-5H20.41973C21.24893-5 21.91973-4.3292 21.91973-3.5V3.5C21.91973 4.3292 21.24893 5 20.41973 5H-20.41973C-21.24893 5-21.91973 4.3292-21.91973 3.5V-3.5C-21.91973-4.3292-21.24893-5-20.41973-5Z"
+       id="path32" />
+    <text
+       fill="#b0185a"
+       fill-opacity=".5"
+       xml:space="preserve"
+       transform="matrix(.990268 -.139173 .139173 .990268 156.14 282.445)"
+       font-size="5.6"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text33"><tspan
+         y="2.000"
+         x="0"
+         id="tspan33">CONSTAT N° 01</tspan></text>
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M217.14 545.445H378.14C383.1152 545.445 387.14 549.4698 387.14 554.445V785.445C387.14 790.4202 383.1152 794.445 378.14 794.445H217.14C212.1648 794.445 208.14 790.4202 208.14 785.445V554.445C208.14 549.4698 212.1648 545.445 217.14 545.445Z"
+       fill="#fff4dc"
+       fill-rule="evenodd"
+       id="path33" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width=".8"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#7a7596"
+       d="M217.14 545.445H378.14C383.1152 545.445 387.14 549.4698 387.14 554.445V785.445C387.14 790.4202 383.1152 794.445 378.14 794.445H217.14C212.1648 794.445 208.14 790.4202 208.14 785.445V554.445C208.14 549.4698 212.1648 545.445 217.14 545.445Z"
+       id="path34" />
+    <g
+       clip-path="url(#p4_clip_2)"
+       id="g35">
+      <path
+         transform="matrix(1,0,0,-1,0,841.89)"
+         d="M208.14 756.445H387.14V794.445H208.14Z"
+         fill="#b0185a"
+         fill-rule="evenodd"
+         id="path35" />
+    </g>
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       font-size="12"
+       font-family="Caladea"
+       font-weight="bold"
+       font-style="italic"
+       text-anchor="middle"
+       id="text35"><tspan
+         y="63.445"
+         x="297.640"
+         id="tspan35">C’ÉTAIT ÉCRIT !</tspan></text>
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       font-size="6.8"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text36"><tspan
+         y="75.445"
+         x="298.409"
+         letter-spacing="1.538"
+         id="tspan36">REBONDISSEMENT</tspan></text>
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M338.64 708.445C338.64 731.0887 320.2837 749.445 297.64 749.445 274.9963 749.445 256.64 731.0887 256.64 708.445 256.64 685.8013 274.9963 667.445 297.64 667.445 320.2837 667.445 338.64 685.8013 338.64 708.445"
+       fill="#b0185a"
+       fill-opacity=".15"
+       fill-rule="evenodd"
+       id="path36" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M332.64 708.445C332.64 727.775 316.97 743.445 297.64 743.445 278.31 743.445 262.64 727.775 262.64 708.445 262.64 689.115 278.31 673.445 297.64 673.445 316.97 673.445 332.64 689.115 332.64 708.445"
+       fill="#b0185a"
+       fill-opacity=".26"
+       fill-rule="evenodd"
+       id="path37" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M327.64 708.445C327.64 725.0135 314.2085 738.445 297.64 738.445 281.0715 738.445 267.64 725.0135 267.64 708.445 267.64 691.8765 281.0715 678.445 297.64 678.445 314.2085 678.445 327.64 691.8765 327.64 708.445"
+       fill="#b0185a"
+       fill-rule="evenodd"
+       id="path38" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width="2"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M327.64 708.445C327.64 725.0135 314.2085 738.445 297.64 738.445 281.0715 738.445 267.64 725.0135 267.64 708.445 267.64 691.8765 281.0715 678.445 297.64 678.445 314.2085 678.445 327.64 691.8765 327.64 708.445"
+       id="path39" />
+    <path
+       transform="matrix(1.5,0,0,-1.5,297.64,133.445)"
+       d="M-10.5-9H10.5C11.3292-9 12-8.3292 12-7.5V3.5C12 4.3292 11.3292 5 10.5 5H-10.5C-11.3292 5-12 4.3292-12 3.5V-7.5C-12-8.3292-11.3292-9-10.5-9Z"
+       fill="#2c2850"
+       fill-rule="evenodd"
+       id="path40" />
+    <path
+       transform="matrix(1.5,0,0,-1.5,297.64,133.445)"
+       stroke-width=".9"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M-10.5-9H10.5C11.3292-9 12-8.3292 12-7.5V3.5C12 4.3292 11.3292 5 10.5 5H-10.5C-11.3292 5-12 4.3292-12 3.5V-7.5C-12-8.3292-11.3292-9-10.5-9Z"
+       id="path41" />
+    <g
+       id="g227"
+       transform="matrix(0.9558055,0,0,1.0220973,14.678762,-4.3077483)">
+      <path
+         d="m 281.14,128.945 h 6 l -3,6 h -6 z"
+         fill="#ffffff"
+         fill-opacity="0.9"
+         fill-rule="evenodd"
+         id="path48"
+         style="stroke-width:1.5" />
+      <path
+         d="m 290.14,128.945 h 6 l -3,6 h -6 z"
+         fill="#ffffff"
+         fill-opacity="0.9"
+         fill-rule="evenodd"
+         id="path49"
+         style="stroke-width:1.5" />
+      <path
+         d="m 299.14,128.945 h 6 l -3,6 h -6 z"
+         fill="#ffffff"
+         fill-opacity="0.9"
+         fill-rule="evenodd"
+         id="path50"
+         style="stroke-width:1.5" />
+      <path
+         d="m 308.14,128.945 h 6 l -3,6 h -6 z"
+         fill="#ffffff"
+         fill-opacity="0.9"
+         fill-rule="evenodd"
+         id="path51"
+         style="stroke-width:1.5" />
+    </g>
+    <path
+       transform="matrix(1.4554441,-.362883,-.362883,-1.4554441,279.64,125.94501)"
+       d="M1 0H23C23.5528 0 24 .4472 24 1V4C24 4.5528 23.5528 5 23 5H1C.4472 5 0 4.5528 0 4V1C0 .4472 .4472 0 1 0Z"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path42" />
+    <path
+       transform="matrix(1.4554441,-.362883,-.362883,-1.4554441,279.64,125.94501)"
+       stroke-width=".9"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M1 0H23C23.5528 0 24 .4472 24 1V4C24 4.5528 23.5528 5 23 5H1C.4472 5 0 4.5528 0 4V1C0 .4472 .4472 0 1 0Z"
+       id="path43" />
+    <path
+       d="m 279.99865,126.01475 5.82178,-1.45154 1.09647,-8.00298 -5.82177,1.45153 z"
+       fill="#1d1b3a"
+       fill-rule="evenodd"
+       id="path44"
+       style="stroke-width:1.5" />
+    <path
+       d="m 288.8639,123.37341 5.82177,-1.45153 1.09648,-8.00299 -5.82178,1.45154 z"
+       fill="#1d1b3a"
+       fill-rule="evenodd"
+       id="path45"
+       style="stroke-width:1.5" />
+    <path
+       d="m 297.696,121.62701 5.82178,-1.45153 1.09647,-8.00299 -5.82177,1.45153 z"
+       fill="#1d1b3a"
+       fill-rule="evenodd"
+       id="path46"
+       style="stroke-width:1.5" />
+    <path
+       d="m 306.19665,119.64858 5.82178,-1.45153 1.09647,-8.00299 -5.82178,1.45153 z"
+       fill="#1d1b3a"
+       fill-rule="evenodd"
+       id="path47"
+       style="stroke-width:1.5" />
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="14.5"
+       font-family="Caladea"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text51"><tspan
+         y="186.445"
+         x="297.640"
+         id="tspan51">Flash-back inutile</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text52"><tspan
+         y="202.445"
+         x="297.640"
+         id="tspan52">Recule de 3. Tu peux raconter un</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text53"><tspan
+         y="215.165"
+         x="297.640"
+         id="tspan53">souvenir (vrai ou inventé) en 15</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text54"><tspan
+         y="227.885"
+         x="297.640"
+         id="tspan54">secondes, pour le plaisir.</tspan></text>
+    <text
+       fill="#4a4570"
+       xml:space="preserve"
+       font-size="7.8"
+       font-family="Carlito"
+       font-style="italic"
+       text-anchor="middle"
+       id="text55"><tspan
+         y="264.445"
+         x="297.640"
+         id="tspan55">Pour la cible de la prophétie</tspan></text>
+    <text
+       fill="#6a6590"
+       xml:space="preserve"
+       font-size="7.5"
+       font-family="Carlito"
+       font-weight="bold"
+       id="text56"><tspan
+         y="284.445"
+         x="222.140"
+         id="tspan56">R02</tspan></text>
+    <path
+       transform="matrix(.990268,-.139173,-.139173,-.990268,335.14,282.445)"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#b0185a"
+       stroke-opacity=".5"
+       d="M-20.41973-5H20.41973C21.24893-5 21.91973-4.3292 21.91973-3.5V3.5C21.91973 4.3292 21.24893 5 20.41973 5H-20.41973C-21.24893 5-21.91973 4.3292-21.91973 3.5V-3.5C-21.91973-4.3292-21.24893-5-20.41973-5Z"
+       id="path56" />
+    <text
+       fill="#b0185a"
+       fill-opacity=".5"
+       xml:space="preserve"
+       transform="matrix(.990268 -.139173 .139173 .990268 335.14 282.445)"
+       font-size="5.6"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text57"><tspan
+         y="2.000"
+         x="0"
+         id="tspan57">CONSTAT N° 02</tspan></text>
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M396.14 545.445H557.14C562.1152 545.445 566.14 549.4698 566.14 554.445V785.445C566.14 790.4202 562.1152 794.445 557.14 794.445H396.14C391.1648 794.445 387.14 790.4202 387.14 785.445V554.445C387.14 549.4698 391.1648 545.445 396.14 545.445Z"
+       fill="#fff4dc"
+       fill-rule="evenodd"
+       id="path57" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width=".8"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#7a7596"
+       d="M396.14 545.445H557.14C562.1152 545.445 566.14 549.4698 566.14 554.445V785.445C566.14 790.4202 562.1152 794.445 557.14 794.445H396.14C391.1648 794.445 387.14 790.4202 387.14 785.445V554.445C387.14 549.4698 391.1648 545.445 396.14 545.445Z"
+       id="path58" />
+    <g
+       clip-path="url(#p4_clip_3)"
+       id="g59">
+      <path
+         transform="matrix(1,0,0,-1,0,841.89)"
+         d="M387.14 756.445H566.14V794.445H387.14Z"
+         fill="#b0185a"
+         fill-rule="evenodd"
+         id="path59" />
+    </g>
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       font-size="12"
+       font-family="Caladea"
+       font-weight="bold"
+       font-style="italic"
+       text-anchor="middle"
+       id="text59"><tspan
+         y="63.445"
+         x="476.640"
+         id="tspan59">C’ÉTAIT ÉCRIT !</tspan></text>
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       font-size="6.8"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text60"><tspan
+         y="75.445"
+         x="477.409"
+         letter-spacing="1.538"
+         id="tspan60">REBONDISSEMENT</tspan></text>
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M517.64 708.445C517.64 731.0887 499.2837 749.445 476.64 749.445 453.9963 749.445 435.64 731.0887 435.64 708.445 435.64 685.8013 453.9963 667.445 476.64 667.445 499.2837 667.445 517.64 685.8013 517.64 708.445"
+       fill="#b0185a"
+       fill-opacity=".15"
+       fill-rule="evenodd"
+       id="path60" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M511.64 708.445C511.64 727.775 495.97 743.445 476.64 743.445 457.31 743.445 441.64 727.775 441.64 708.445 441.64 689.115 457.31 673.445 476.64 673.445 495.97 673.445 511.64 689.115 511.64 708.445"
+       fill="#b0185a"
+       fill-opacity=".26"
+       fill-rule="evenodd"
+       id="path61" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M506.64 708.445C506.64 725.0135 493.2085 738.445 476.64 738.445 460.0715 738.445 446.64 725.0135 446.64 708.445 446.64 691.8765 460.0715 678.445 476.64 678.445 493.2085 678.445 506.64 691.8765 506.64 708.445"
+       fill="#b0185a"
+       fill-rule="evenodd"
+       id="path62" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width="2"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M506.64 708.445C506.64 725.0135 493.2085 738.445 476.64 738.445 460.0715 738.445 446.64 725.0135 446.64 708.445 446.64 691.8765 460.0715 678.445 476.64 678.445 493.2085 678.445 506.64 691.8765 506.64 708.445"
+       id="path63" />
+    <path
+       transform="matrix(1.1320124,-.28224243,-.28224243,-1.1320124,476.64,133.445)"
+       d="M0 17-4.196787 5.776381-16.16796 5.253289-6.790544-2.206381-9.992349-13.75329 0-7.14 9.992349-13.75329 6.790544-2.206381 16.16796 5.253289 4.196787 5.776381Z"
+       fill="#ffe45c"
+       fill-rule="evenodd"
+       id="path64" />
+    <path
+       transform="matrix(1.1320124,-.28224243,-.28224243,-1.1320124,476.64,133.445)"
+       stroke-width="1.3"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M0 17-4.196787 5.776381-16.16796 5.253289-6.790544-2.206381-9.992349-13.75329 0-7.14 9.992349-13.75329 6.790544-2.206381 16.16796 5.253289 4.196787 5.776381Z"
+       id="path65" />
+    <path
+       transform="matrix(1.166667,0,0,-1.166667,476.64,133.445)"
+       d="M-14 15.4-14.52892 12.52892-17.4 12-14.52892 11.47108-14 8.6-13.47108 11.47108-10.6 12-13.47108 12.52892Z"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path66" />
+    <path
+       transform="matrix(1.166667,0,0,-1.166667,476.64,133.445)"
+       d="M14 12 13.53331 9.46669 11 9 13.53331 8.53331 14 6 14.46669 8.53331 17 9 14.46669 9.46669Z"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path67" />
+    <path
+       transform="matrix(1.166667,0,0,-1.166667,476.64,133.445)"
+       d="M11-9.4 10.43997-12.43997 7.4-13 10.43997-13.56003 11-16.6 11.56003-13.56003 14.6-13 11.56003-12.43997Z"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path68" />
+    <path
+       transform="matrix(1.166667,0,0,-1.166667,476.64,133.445)"
+       d="M-12-7.4-12.40447-9.595535-14.6-10-12.40447-10.40447-12-12.6-11.59553-10.40447-9.4-10-11.59553-9.595535Z"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path69" />
+    <path
+       transform="matrix(1.166667,0,0,-1.166667,476.64,133.445)"
+       d="M-5.4-16C-5.4-14.01177-7.011775-12.4-9-12.4-10.98823-12.4-12.6-14.01177-12.6-16-12.6-17.98823-10.98823-19.6-9-19.6-7.011775-19.6-5.4-17.98823-5.4-16"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path70" />
+    <path
+       transform="matrix(1.166667,0,0,-1.166667,476.64,133.445)"
+       stroke-width=".7"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M-5.4-16C-5.4-14.01177-7.011775-12.4-9-12.4-10.98823-12.4-12.6-14.01177-12.6-16-12.6-17.98823-10.98823-19.6-9-19.6-7.011775-19.6-5.4-17.98823-5.4-16"
+       id="path71" />
+    <path
+       transform="matrix(1.166667,0,0,-1.166667,476.64,133.445)"
+       d="M.6-18C.6-15.45949-1.45949-13.4-4-13.4-6.54051-13.4-8.6-15.45949-8.6-18-8.6-20.54051-6.54051-22.6-4-22.6-1.45949-22.6 .6-20.54051 .6-18"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path72" />
+    <path
+       transform="matrix(1.166667,0,0,-1.166667,476.64,133.445)"
+       stroke-width=".7"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M.6-18C.6-15.45949-1.45949-13.4-4-13.4-6.54051-13.4-8.6-15.45949-8.6-18-8.6-20.54051-6.54051-22.6-4-22.6-1.45949-22.6 .6-20.54051 .6-18"
+       id="path73" />
+    <path
+       transform="matrix(1.166667,0,0,-1.166667,476.64,133.445)"
+       d="M6.8-17C6.8-14.90132 5.098682-13.2 3-13.2 .901318-13.2-.8-14.90132-.8-17-.8-19.09868 .901318-20.8 3-20.8 5.098682-20.8 6.8-19.09868 6.8-17"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path74" />
+    <path
+       transform="matrix(1.166667,0,0,-1.166667,476.64,133.445)"
+       stroke-width=".7"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M6.8-17C6.8-14.90132 5.098682-13.2 3-13.2 .901318-13.2-.8-14.90132-.8-17-.8-19.09868 .901318-20.8 3-20.8 5.098682-20.8 6.8-19.09868 6.8-17"
+       id="path75" />
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       transform="matrix(1.166667 0 -0 1.166667 476.64 133.445)"
+       font-size="10"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text75"><tspan
+         y="3.500"
+         x="0"
+         id="tspan75">?!</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="14.5"
+       font-family="Caladea"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text76"><tspan
+         y="186.445"
+         x="476.640"
+         id="tspan76">Transformation ratée</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text77"><tspan
+         y="202.445"
+         x="476.640"
+         id="tspan77">Recule de 2 et fais la pose de</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text78"><tspan
+         y="215.165"
+         x="476.640"
+         id="tspan78">transformation la plus ridicule</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text79"><tspan
+         y="227.885"
+         x="476.640"
+         id="tspan79">possible.</tspan></text>
+    <text
+       fill="#4a4570"
+       xml:space="preserve"
+       font-size="7.8"
+       font-family="Carlito"
+       font-style="italic"
+       text-anchor="middle"
+       id="text80"><tspan
+         y="264.445"
+         x="476.640"
+         id="tspan80">Pour la cible de la prophétie</tspan></text>
+    <text
+       fill="#6a6590"
+       xml:space="preserve"
+       font-size="7.5"
+       font-family="Carlito"
+       font-weight="bold"
+       id="text81"><tspan
+         y="284.445"
+         x="401.140"
+         id="tspan81">R03</tspan></text>
+    <path
+       transform="matrix(.990268,-.139173,-.139173,-.990268,514.14,282.445)"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#b0185a"
+       stroke-opacity=".5"
+       d="M-20.41973-5H20.41973C21.24893-5 21.91973-4.3292 21.91973-3.5V3.5C21.91973 4.3292 21.24893 5 20.41973 5H-20.41973C-21.24893 5-21.91973 4.3292-21.91973 3.5V-3.5C-21.91973-4.3292-21.24893-5-20.41973-5Z"
+       id="path81" />
+    <text
+       fill="#b0185a"
+       fill-opacity=".5"
+       xml:space="preserve"
+       transform="matrix(.990268 -.139173 .139173 .990268 514.14 282.445)"
+       font-size="5.6"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text82"><tspan
+         y="2.000"
+         x="0"
+         id="tspan82">CONSTAT N° 03</tspan></text>
+    <path
+       d="m 38.14,545.445 h 161 c 4.9752,0 9,-4.0248 9,-9 v -231 c 0,-4.9752 -4.0248,-9 -9,-9 h -161 c -4.9752,0 -9,4.0248 -9,9 v 231 c 0,4.9752 4.0248,9 9,9 z"
+       fill="#fff4dc"
+       fill-rule="evenodd"
+       id="path82" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width=".8"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#7a7596"
+       d="M38.14 296.445H199.14C204.1152 296.445 208.14 300.4698 208.14 305.445V536.445C208.14 541.4202 204.1152 545.445 199.14 545.445H38.14C33.1648 545.445 29.14 541.4202 29.14 536.445V305.445C29.14 300.4698 33.1648 296.445 38.14 296.445Z"
+       id="path83" />
+    <g
+       clip-path="url(#p4_clip_4)"
+       id="g84">
+      <path
+         transform="matrix(1,0,0,-1,0,841.89)"
+         d="M29.14 507.445H208.14V545.445H29.14Z"
+         fill="#b0185a"
+         fill-rule="evenodd"
+         id="path84" />
+    </g>
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       font-size="12"
+       font-family="Caladea"
+       font-weight="bold"
+       font-style="italic"
+       text-anchor="middle"
+       id="text84"><tspan
+         y="312.445"
+         x="118.640"
+         id="tspan84">C’ÉTAIT ÉCRIT !</tspan></text>
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       font-size="6.8"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text85"><tspan
+         y="324.445"
+         x="119.409"
+         letter-spacing="1.538"
+         id="tspan85">REBONDISSEMENT</tspan></text>
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M159.64 459.445C159.64 482.0887 141.2837 500.445 118.64 500.445 95.99633 500.445 77.64 482.0887 77.64 459.445 77.64 436.8013 95.99633 418.445 118.64 418.445 141.2837 418.445 159.64 436.8013 159.64 459.445"
+       fill="#b0185a"
+       fill-opacity=".15"
+       fill-rule="evenodd"
+       id="path85" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M153.64 459.445C153.64 478.775 137.97 494.445 118.64 494.445 99.31003 494.445 83.64 478.775 83.64 459.445 83.64 440.115 99.31003 424.445 118.64 424.445 137.97 424.445 153.64 440.115 153.64 459.445"
+       fill="#b0185a"
+       fill-opacity=".26"
+       fill-rule="evenodd"
+       id="path86" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M148.64 459.445C148.64 476.0135 135.2085 489.445 118.64 489.445 102.0715 489.445 88.64 476.0135 88.64 459.445 88.64 442.8765 102.0715 429.445 118.64 429.445 135.2085 429.445 148.64 442.8765 148.64 459.445"
+       fill="#b0185a"
+       fill-rule="evenodd"
+       id="path87" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width="2"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M148.64 459.445C148.64 476.0135 135.2085 489.445 118.64 489.445 102.0715 489.445 88.64 476.0135 88.64 459.445 88.64 442.8765 102.0715 429.445 118.64 429.445 135.2085 429.445 148.64 442.8765 148.64 459.445"
+       id="path88" />
+    <path
+       d="m 118.64,354.7196 4.375,25.6254 h -8.75 z"
+       fill="#e8ecf5"
+       fill-rule="evenodd"
+       id="path89"
+       style="stroke-width:1.51261" />
+    <path
+       stroke-width="1.28191"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="m 118.64,356.81785 4.2225,23.54262 h -8.445 z"
+       id="path90" />
+    <path
+       transform="matrix(1.25,0,0,-1.25,118.64,384.095)"
+       d="M-7 .5H7C7.5528 .5 8 .9472 8 1.5V2.5C8 3.0528 7.5528 3.5 7 3.5H-7C-7.5528 3.5-8 3.0528-8 2.5V1.5C-8 .9472-7.5528 .5-7 .5Z"
+       fill="#f2b705"
+       fill-rule="evenodd"
+       id="path91" />
+    <path
+       transform="matrix(1.25,0,0,-1.25,118.64,384.095)"
+       d="M-2-11H2V.5H-2Z"
+       fill="#8a5a32"
+       fill-rule="evenodd"
+       id="path93" />
+    <path
+       transform="matrix(1.25,0,0,-1.25,118.64,384.095)"
+       stroke-width=".8"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M-2-11H2V.5H-2Z"
+       id="path94" />
+    <path
+       stroke-width="0.399709"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="m 118.67253,379.68254 1.50721,-2.08249 -1.56248,-11.6072 -1.47877,11.54059 z"
+       id="path94-5"
+       sodipodi:nodetypes="ccccc"
+       style="fill:#ececec;stroke:#dddde4;stroke-opacity:1" />
+    <path
+       transform="matrix(1.25,0,0,-1.25,118.64,384.095)"
+       stroke-width=".8"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M-7 .5H7C7.5528 .5 8 .9472 8 1.5V2.5C8 3.0528 7.5528 3.5 7 3.5H-7C-7.5528 3.5-8 3.0528-8 2.5V1.5C-8 .9472-7.5528 .5-7 .5Z"
+       id="path92" />
+    <path
+       transform="matrix(1.25,0,0,-1.25,118.64,384.095)"
+       d="M2.6-13C2.6-11.56406 1.43594-10.4 0-10.4-1.43594-10.4-2.6-11.56406-2.6-13-2.6-14.43594-1.43594-15.6 0-15.6 1.43594-15.6 2.6-14.43594 2.6-13"
+       fill="#f2b705"
+       fill-rule="evenodd"
+       id="path95" />
+    <path
+       transform="matrix(1.25,0,0,-1.25,118.64,384.095)"
+       stroke-width=".8"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M2.6-13C2.6-11.56406 1.43594-10.4 0-10.4-1.43594-10.4-2.6-11.56406-2.6-13-2.6-14.43594-1.43594-15.6 0-15.6 1.43594-15.6 2.6-14.43594 2.6-13"
+       id="path96" />
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="14.5"
+       font-family="Caladea"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text96"><tspan
+         y="435.445"
+         x="118.640"
+         id="tspan96">Trahison dans le dos</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text97"><tspan
+         y="451.445"
+         x="118.640"
+         id="tspan97">Donne ta Relique au Scénariste</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text98"><tspan
+         y="464.165"
+         x="118.640"
+         id="tspan98">(rien ne se passe s’il en porte déjà</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text99"><tspan
+         y="476.885"
+         x="118.640"
+         id="tspan99">une). Si tu n’en as pas, recule de 3.</tspan></text>
+    <text
+       fill="#4a4570"
+       xml:space="preserve"
+       font-size="7.8"
+       font-family="Carlito"
+       font-style="italic"
+       text-anchor="middle"
+       id="text100"><tspan
+         y="513.445"
+         x="118.640"
+         id="tspan100">Pour la cible de la prophétie</tspan></text>
+    <text
+       fill="#6a6590"
+       xml:space="preserve"
+       font-size="7.5"
+       font-family="Carlito"
+       font-weight="bold"
+       id="text101"><tspan
+         y="533.445"
+         x="43.140"
+         id="tspan101">R04</tspan></text>
+    <path
+       transform="matrix(.990268,-.139173,-.139173,-.990268,156.14,531.445)"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#b0185a"
+       stroke-opacity=".5"
+       d="M-20.41973-5H20.41973C21.24893-5 21.91973-4.3292 21.91973-3.5V3.5C21.91973 4.3292 21.24893 5 20.41973 5H-20.41973C-21.24893 5-21.91973 4.3292-21.91973 3.5V-3.5C-21.91973-4.3292-21.24893-5-20.41973-5Z"
+       id="path101" />
+    <text
+       fill="#b0185a"
+       fill-opacity=".5"
+       xml:space="preserve"
+       transform="matrix(.990268 -.139173 .139173 .990268 156.14 531.445)"
+       font-size="5.6"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text102"><tspan
+         y="2.000"
+         x="0"
+         id="tspan102">CONSTAT N° 04</tspan></text>
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M217.14 296.445H378.14C383.1152 296.445 387.14 300.4698 387.14 305.445V536.445C387.14 541.4202 383.1152 545.445 378.14 545.445H217.14C212.1648 545.445 208.14 541.4202 208.14 536.445V305.445C208.14 300.4698 212.1648 296.445 217.14 296.445Z"
+       fill="#fff4dc"
+       fill-rule="evenodd"
+       id="path102" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width=".8"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#7a7596"
+       d="M217.14 296.445H378.14C383.1152 296.445 387.14 300.4698 387.14 305.445V536.445C387.14 541.4202 383.1152 545.445 378.14 545.445H217.14C212.1648 545.445 208.14 541.4202 208.14 536.445V305.445C208.14 300.4698 212.1648 296.445 217.14 296.445Z"
+       id="path103" />
+    <g
+       clip-path="url(#p4_clip_5)"
+       id="g104">
+      <path
+         transform="matrix(1,0,0,-1,0,841.89)"
+         d="M208.14 507.445H387.14V545.445H208.14Z"
+         fill="#b0185a"
+         fill-rule="evenodd"
+         id="path104" />
+    </g>
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       font-size="12"
+       font-family="Caladea"
+       font-weight="bold"
+       font-style="italic"
+       text-anchor="middle"
+       id="text104"><tspan
+         y="312.445"
+         x="297.640"
+         id="tspan104">C’ÉTAIT ÉCRIT !</tspan></text>
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       font-size="6.8"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text105"><tspan
+         y="324.445"
+         x="298.409"
+         letter-spacing="1.538"
+         id="tspan105">REBONDISSEMENT</tspan></text>
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M338.64 459.445C338.64 482.0887 320.2837 500.445 297.64 500.445 274.9963 500.445 256.64 482.0887 256.64 459.445 256.64 436.8013 274.9963 418.445 297.64 418.445 320.2837 418.445 338.64 436.8013 338.64 459.445"
+       fill="#b0185a"
+       fill-opacity=".15"
+       fill-rule="evenodd"
+       id="path105" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M332.64 459.445C332.64 478.775 316.97 494.445 297.64 494.445 278.31 494.445 262.64 478.775 262.64 459.445 262.64 440.115 278.31 424.445 297.64 424.445 316.97 424.445 332.64 440.115 332.64 459.445"
+       fill="#b0185a"
+       fill-opacity=".26"
+       fill-rule="evenodd"
+       id="path106" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M327.64 459.445C327.64 476.0135 314.2085 489.445 297.64 489.445 281.0715 489.445 267.64 476.0135 267.64 459.445 267.64 442.8765 281.0715 429.445 297.64 429.445 314.2085 429.445 327.64 442.8765 327.64 459.445"
+       fill="#b0185a"
+       fill-rule="evenodd"
+       id="path107" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width="2"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M327.64 459.445C327.64 476.0135 314.2085 489.445 297.64 489.445 281.0715 489.445 267.64 476.0135 267.64 459.445 267.64 442.8765 281.0715 429.445 297.64 429.445 314.2085 429.445 327.64 442.8765 327.64 459.445"
+       id="path108" />
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       transform="matrix(1.166667 0 -0 1.166667 297.64 382.445)"
+       font-size="22"
+       font-family="Caladea"
+       font-weight="bold"
+       id="text108"><tspan
+         y="4.000"
+         x="-9.094"
+         id="tspan108">Z</tspan></text>
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       transform="matrix(1.166667 0 -0 1.166667 297.64 382.445)"
+       font-size="15"
+       font-family="Caladea"
+       font-weight="bold"
+       id="text109"><tspan
+         y="-7.000"
+         x="4.520"
+         id="tspan109">z</tspan></text>
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       transform="scale(0.98301424,1.0172793)"
+       font-size="10.1485px"
+       font-family="Caladea"
+       font-weight="bold"
+       id="text110"
+       x="304.83807"
+       y="373.97159"
+       style="stroke-width:1.01485"><tspan
+         y="358.74878"
+         x="316.69156"
+         id="tspan110"
+         style="stroke-width:1.01485">z</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="14.5"
+       font-family="Caladea"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text111"><tspan
+         y="435.445"
+         x="297.640"
+         id="tspan111">Épisode de remplissage</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text112"><tspan
+         y="451.445"
+         x="297.640"
+         id="tspan112">Tu passes ton prochain lancer de</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text113"><tspan
+         y="464.165"
+         x="297.640"
+         id="tspan113">dé. Personne ne s’en souviendra.</tspan></text>
+    <text
+       fill="#4a4570"
+       xml:space="preserve"
+       font-size="7.8"
+       font-family="Carlito"
+       font-style="italic"
+       text-anchor="middle"
+       id="text114"><tspan
+         y="513.445"
+         x="297.640"
+         id="tspan114">Pour la cible de la prophétie</tspan></text>
+    <text
+       fill="#6a6590"
+       xml:space="preserve"
+       font-size="7.5"
+       font-family="Carlito"
+       font-weight="bold"
+       id="text115"><tspan
+         y="533.445"
+         x="222.140"
+         id="tspan115">R05</tspan></text>
+    <path
+       transform="matrix(.990268,-.139173,-.139173,-.990268,335.14,531.445)"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#b0185a"
+       stroke-opacity=".5"
+       d="M-20.41973-5H20.41973C21.24893-5 21.91973-4.3292 21.91973-3.5V3.5C21.91973 4.3292 21.24893 5 20.41973 5H-20.41973C-21.24893 5-21.91973 4.3292-21.91973 3.5V-3.5C-21.91973-4.3292-21.24893-5-20.41973-5Z"
+       id="path115" />
+    <text
+       fill="#b0185a"
+       fill-opacity=".5"
+       xml:space="preserve"
+       transform="matrix(.990268 -.139173 .139173 .990268 335.14 531.445)"
+       font-size="5.6"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text116"><tspan
+         y="2.000"
+         x="0"
+         id="tspan116">CONSTAT N° 05</tspan></text>
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M396.14 296.445H557.14C562.1152 296.445 566.14 300.4698 566.14 305.445V536.445C566.14 541.4202 562.1152 545.445 557.14 545.445H396.14C391.1648 545.445 387.14 541.4202 387.14 536.445V305.445C387.14 300.4698 391.1648 296.445 396.14 296.445Z"
+       fill="#fff4dc"
+       fill-rule="evenodd"
+       id="path116" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width=".8"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#7a7596"
+       d="M396.14 296.445H557.14C562.1152 296.445 566.14 300.4698 566.14 305.445V536.445C566.14 541.4202 562.1152 545.445 557.14 545.445H396.14C391.1648 545.445 387.14 541.4202 387.14 536.445V305.445C387.14 300.4698 391.1648 296.445 396.14 296.445Z"
+       id="path117" />
+    <g
+       clip-path="url(#p4_clip_6)"
+       id="g118">
+      <path
+         transform="matrix(1,0,0,-1,0,841.89)"
+         d="M387.14 507.445H566.14V545.445H387.14Z"
+         fill="#b0185a"
+         fill-rule="evenodd"
+         id="path118" />
+    </g>
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       font-size="12"
+       font-family="Caladea"
+       font-weight="bold"
+       font-style="italic"
+       text-anchor="middle"
+       id="text118"><tspan
+         y="312.445"
+         x="476.640"
+         id="tspan118">C’ÉTAIT ÉCRIT !</tspan></text>
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       font-size="6.8"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text119"><tspan
+         y="324.445"
+         x="477.409"
+         letter-spacing="1.538"
+         id="tspan119">REBONDISSEMENT</tspan></text>
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M517.64 459.445C517.64 482.0887 499.2837 500.445 476.64 500.445 453.9963 500.445 435.64 482.0887 435.64 459.445 435.64 436.8013 453.9963 418.445 476.64 418.445 499.2837 418.445 517.64 436.8013 517.64 459.445"
+       fill="#b0185a"
+       fill-opacity=".15"
+       fill-rule="evenodd"
+       id="path119" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M511.64 459.445C511.64 478.775 495.97 494.445 476.64 494.445 457.31 494.445 441.64 478.775 441.64 459.445 441.64 440.115 457.31 424.445 476.64 424.445 495.97 424.445 511.64 440.115 511.64 459.445"
+       fill="#b0185a"
+       fill-opacity=".26"
+       fill-rule="evenodd"
+       id="path120" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M506.64 459.445C506.64 476.0135 493.2085 489.445 476.64 489.445 460.0715 489.445 446.64 476.0135 446.64 459.445 446.64 442.8765 460.0715 429.445 476.64 429.445 493.2085 429.445 506.64 442.8765 506.64 459.445"
+       fill="#b0185a"
+       fill-rule="evenodd"
+       id="path121" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width="2"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M506.64 459.445C506.64 476.0135 493.2085 489.445 476.64 489.445 460.0715 489.445 446.64 476.0135 446.64 459.445 446.64 442.8765 460.0715 429.445 476.64 429.445 493.2085 429.445 506.64 442.8765 506.64 459.445"
+       id="path122" />
+    <path
+       transform="matrix(1.5,0,0,-1.5,476.64,382.445)"
+       d="M-4 0C-4 3.313708-6.686292 6-10 6-13.31371 6-16 3.313708-16 0-16-3.313708-13.31371-6-10-6-6.686292-6-4-3.313708-4 0"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path123" />
+    <path
+       transform="matrix(1.5,0,0,-1.5,476.64,382.445)"
+       stroke-width=".7"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M-4 0C-4 3.313708-6.686292 6-10 6-13.31371 6-16 3.313708-16 0-16-3.313708-13.31371-6-10-6-6.686292-6-4-3.313708-4 0"
+       id="path124" />
+    <path
+       transform="matrix(1.5,0,0,-1.5,476.64,382.445)"
+       d="M5 3C5 7.418278 1.418278 11-3 11-7.418278 11-11 7.418278-11 3-11-1.418278-7.418278-5-3-5 1.418278-5 5-1.418278 5 3"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path125" />
+    <path
+       transform="matrix(1.5,0,0,-1.5,476.64,382.445)"
+       stroke-width=".7"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M5 3C5 7.418278 1.418278 11-3 11-7.418278 11-11 7.418278-11 3-11-1.418278-7.418278-5-3-5 1.418278-5 5-1.418278 5 3"
+       id="path126" />
+    <path
+       transform="matrix(1.5,0,0,-1.5,476.64,382.445)"
+       d="M13 2C13 5.865993 9.865993 9 6 9 2.134007 9-1 5.865993-1 2-1-1.865993 2.134007-5 6-5 9.865993-5 13-1.865993 13 2"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path127" />
+    <path
+       transform="matrix(1.5,0,0,-1.5,476.64,382.445)"
+       stroke-width=".7"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M13 2C13 5.865993 9.865993 9 6 9 2.134007 9-1 5.865993-1 2-1-1.865993 2.134007-5 6-5 9.865993-5 13-1.865993 13 2"
+       id="path128" />
+    <path
+       transform="matrix(1.5,0,0,-1.5,476.64,382.445)"
+       d="M18 0C18 2.761424 15.76142 5 13 5 10.23858 5 8 2.761424 8 0 8-2.761424 10.23858-5 13-5 15.76142-5 18-2.761424 18 0"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path129" />
+    <path
+       transform="matrix(1.5,0,0,-1.5,476.64,382.445)"
+       stroke-width=".7"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M18 0C18 2.761424 15.76142 5 13 5 10.23858 5 8 2.761424 8 0 8-2.761424 10.23858-5 13-5 15.76142-5 18-2.761424 18 0"
+       id="path130" />
+    <path
+       transform="matrix(1.5,0,0,-1.5,476.64,382.445)"
+       d="M -13.491763,-4.0829641 15.640615,-3.7734284 17,2 h -31 z"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path131"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       transform="matrix(1.5,0,0,-1.5,476.64,382.445)"
+       d="M-4.6 0C-4.6 2.982338-7.017662 5.4-10 5.4-12.98234 5.4-15.4 2.982338-15.4 0-15.4-2.982338-12.98234-5.4-10-5.4-7.017662-5.4-4.6-2.982338-4.6 0"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path132" />
+    <path
+       transform="matrix(1.5,0,0,-1.5,476.64,382.445)"
+       d="M4.4 3C4.4 7.086907 1.086907 10.4-3 10.4-7.086907 10.4-10.4 7.086907-10.4 3-10.4-1.086907-7.086907-4.4-3-4.4 1.086907-4.4 4.4-1.086907 4.4 3"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path133" />
+    <path
+       transform="matrix(1.5,0,0,-1.5,476.64,382.445)"
+       d="M12.4 2C12.4 5.534622 9.534622 8.4 6 8.4 2.465378 8.4-.4 5.534622-.4 2-.4-1.534622 2.465378-4.4 6-4.4 9.534622-4.4 12.4-1.534622 12.4 2"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path134" />
+    <path
+       transform="matrix(1.5,0,0,-1.5,476.64,382.445)"
+       d="M17.4 0C17.4 2.430053 15.43005 4.4 13 4.4 10.56995 4.4 8.6 2.430053 8.6 0 8.6-2.430053 10.56995-4.4 13-4.4 15.43005-4.4 17.4-2.430053 17.4 0"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path135" />
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       transform="matrix(1 0 -0 1 476.64 382.445)"
+       font-size="22"
+       font-family="Caladea"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text135"><tspan
+         y="5.000"
+         x="0"
+         id="tspan135">?</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="14.5"
+       font-family="Caladea"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text136"><tspan
+         y="435.445"
+         x="476.640"
+         id="tspan136">Amnésie soudaine</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text137"><tspan
+         y="451.445"
+         x="476.640"
+         id="tspan137">Qui es-tu ? Ton pouvoir de héros</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text138"><tspan
+         y="464.165"
+         x="476.640"
+         id="tspan138">est bloqué jusqu’à la fin de la</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text139"><tspan
+         y="476.885"
+         x="476.640"
+         id="tspan139">prochaine manche.</tspan></text>
+    <text
+       fill="#4a4570"
+       xml:space="preserve"
+       font-size="7.8"
+       font-family="Carlito"
+       font-style="italic"
+       text-anchor="middle"
+       id="text140"><tspan
+         y="513.445"
+         x="476.640"
+         id="tspan140">Pour la cible de la prophétie</tspan></text>
+    <text
+       fill="#6a6590"
+       xml:space="preserve"
+       font-size="7.5"
+       font-family="Carlito"
+       font-weight="bold"
+       id="text141"><tspan
+         y="533.445"
+         x="401.140"
+         id="tspan141">R06</tspan></text>
+    <path
+       transform="matrix(.990268,-.139173,-.139173,-.990268,514.14,531.445)"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#b0185a"
+       stroke-opacity=".5"
+       d="M-20.41973-5H20.41973C21.24893-5 21.91973-4.3292 21.91973-3.5V3.5C21.91973 4.3292 21.24893 5 20.41973 5H-20.41973C-21.24893 5-21.91973 4.3292-21.91973 3.5V-3.5C-21.91973-4.3292-21.24893-5-20.41973-5Z"
+       id="path141" />
+    <text
+       fill="#b0185a"
+       fill-opacity=".5"
+       xml:space="preserve"
+       transform="matrix(.990268 -.139173 .139173 .990268 514.14 531.445)"
+       font-size="5.6"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text142"><tspan
+         y="2.000"
+         x="0"
+         id="tspan142">CONSTAT N° 06</tspan></text>
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M38.14 47.445H199.14C204.1152 47.445 208.14 51.4698 208.14 56.445V287.445C208.14 292.4202 204.1152 296.445 199.14 296.445H38.14C33.1648 296.445 29.14 292.4202 29.14 287.445V56.445C29.14 51.4698 33.1648 47.445 38.14 47.445Z"
+       fill="#fff4dc"
+       fill-rule="evenodd"
+       id="path142" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width=".8"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#7a7596"
+       d="M38.14 47.445H199.14C204.1152 47.445 208.14 51.4698 208.14 56.445V287.445C208.14 292.4202 204.1152 296.445 199.14 296.445H38.14C33.1648 296.445 29.14 292.4202 29.14 287.445V56.445C29.14 51.4698 33.1648 47.445 38.14 47.445Z"
+       id="path143" />
+    <g
+       clip-path="url(#p4_clip_7)"
+       id="g144">
+      <path
+         transform="matrix(1,0,0,-1,0,841.89)"
+         d="M29.14 258.445H208.14V296.445H29.14Z"
+         fill="#b0185a"
+         fill-rule="evenodd"
+         id="path144" />
+    </g>
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       font-size="12"
+       font-family="Caladea"
+       font-weight="bold"
+       font-style="italic"
+       text-anchor="middle"
+       id="text144"><tspan
+         y="561.445"
+         x="118.640"
+         id="tspan144">C’ÉTAIT ÉCRIT !</tspan></text>
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       font-size="6.8"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text145"><tspan
+         y="573.445"
+         x="119.409"
+         letter-spacing="1.538"
+         id="tspan145">REBONDISSEMENT</tspan></text>
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M155.64 218.445C155.64 238.8795 139.0745 255.445 118.64 255.445 98.20546 255.445 81.64 238.8795 81.64 218.445 81.64 198.0105 98.20546 181.445 118.64 181.445 139.0745 181.445 155.64 198.0105 155.64 218.445"
+       fill="#b0185a"
+       fill-opacity=".15"
+       fill-rule="evenodd"
+       id="path145" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M149.64 218.445C149.64 235.5658 135.7608 249.445 118.64 249.445 101.5192 249.445 87.64 235.5658 87.64 218.445 87.64 201.3242 101.5192 187.445 118.64 187.445 135.7608 187.445 149.64 201.3242 149.64 218.445"
+       fill="#b0185a"
+       fill-opacity=".26"
+       fill-rule="evenodd"
+       id="path146" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M144.64 218.445C144.64 232.8044 132.9994 244.445 118.64 244.445 104.2806 244.445 92.64 232.8044 92.64 218.445 92.64 204.0856 104.2806 192.445 118.64 192.445 132.9994 192.445 144.64 204.0856 144.64 218.445"
+       fill="#b0185a"
+       fill-rule="evenodd"
+       id="path147" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width="2"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M144.64 218.445C144.64 232.8044 132.9994 244.445 118.64 244.445 104.2806 244.445 92.64 232.8044 92.64 218.445 92.64 204.0856 104.2806 192.445 118.64 192.445 132.9994 192.445 144.64 204.0856 144.64 218.445"
+       id="path148" />
+    <g
+       clip-path="url(#p4_clip_8)"
+       id="g168">
+      <path
+         transform="matrix(.8594444,0,0,-.8594444,118.64,623.445)"
+         d="M-20-20H20V20H-20Z"
+         fill="#3a2e7a"
+         fill-rule="evenodd"
+         id="path149" />
+      <path
+         transform="matrix(.8594444,0,0,-.8594444,118.64,623.445)"
+         d="M-14 14.2-14.34224 12.34224-16.2 12-14.34224 11.65776-14 9.8-13.65776 11.65776-11.8 12-13.65776 12.34224Z"
+         fill="#8be9fd"
+         fill-rule="evenodd"
+         id="path150" />
+      <path
+         transform="matrix(.8594444,0,0,-.8594444,118.64,623.445)"
+         d="M13 17.2 12.65776 15.34224 10.8 15 12.65776 14.65776 13 12.8 13.34224 14.65776 15.2 15 13.34224 15.34224Z"
+         fill="#8be9fd"
+         fill-rule="evenodd"
+         id="path151" />
+      <path
+         transform="matrix(.8594444,0,0,-.8594444,118.64,623.445)"
+         d="M15 .2 14.65776-1.65776 12.8-2 14.65776-2.34224 15-4.2 15.34224-2.34224 17.2-2 15.34224-1.65776Z"
+         fill="#8be9fd"
+         fill-rule="evenodd"
+         id="path152" />
+      <path
+         transform="matrix(.8594444,0,0,-.8594444,118.64,623.445)"
+         d="M-15-3.8-15.34224-5.65776-17.2-6-15.34224-6.34224-15-8.2-14.65776-6.34224-12.8-6-14.65776-5.65776Z"
+         fill="#8be9fd"
+         fill-rule="evenodd"
+         id="path153" />
+      <path
+         transform="matrix(.8594444,0,0,-.8594444,118.64,623.445)"
+         d="M15-3C15 6.388841 8.284271 14 0 14-8.284271 14-15 6.388841-15-3-15-12.38884-8.284271-20 0-20 8.284271-20 15-12.38884 15-3"
+         fill="#15152b"
+         fill-rule="evenodd"
+         id="path154" />
+      <path
+         transform="matrix(.8594444,0,0,-.8594444,118.64,623.445)"
+         stroke-width=".9"
+         stroke-linecap="butt"
+         stroke-miterlimit="10"
+         stroke-linejoin="miter"
+         fill="none"
+         stroke="#1d1b3a"
+         d="M15-3C15 6.388841 8.284271 14 0 14-8.284271 14-15 6.388841-15-3-15-12.38884-8.284271-20 0-20 8.284271-20 15-12.38884 15-3"
+         id="path155" />
+      <path
+         transform="matrix(.8594444,0,0,-.8594444,118.64,623.445)"
+         d="M15-24C15-17.92487 8.284271-13 0-13-8.284271-13-15-17.92487-15-24-15-30.07513-8.284271-35 0-35 8.284271-35 15-30.07513 15-24"
+         fill="#b2203a"
+         fill-rule="evenodd"
+         id="path156" />
+      <path
+         transform="matrix(.8594444,0,0,-.8594444,118.64,623.445)"
+         stroke-width=".9"
+         stroke-linecap="butt"
+         stroke-miterlimit="10"
+         stroke-linejoin="miter"
+         fill="none"
+         stroke="#1d1b3a"
+         d="M15-24C15-17.92487 8.284271-13 0-13-8.284271-13-15-17.92487-15-24-15-30.07513-8.284271-35 0-35 8.284271-35 15-30.07513 15-24"
+         id="path157" />
+      <path
+         transform="matrix(.8594444,0,0,-.8594444,118.64,623.445)"
+         d="M-8-13 0-17 8-13 0-22Z"
+         fill="#15152b"
+         fill-rule="evenodd"
+         id="path158" />
+      <path
+         transform="matrix(.8594444,0,0,-.8594444,118.64,623.445)"
+         d="M12.5 0C12.5 6.627417 6.903559 12 0 12-6.903559 12-12.5 6.627417-12.5 0-12.5-6.627417-6.903559-12 0-12 6.903559-12 12.5-6.627417 12.5 0"
+         fill="#f6dccb"
+         fill-rule="evenodd"
+         id="path159" />
+      <path
+         transform="matrix(.8594444,0,0,-.8594444,118.64,623.445)"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-miterlimit="10"
+         stroke-linejoin="miter"
+         fill="none"
+         stroke="#1d1b3a"
+         d="M12.5 0C12.5 6.627417 6.903559 12 0 12-6.903559 12-12.5 6.627417-12.5 0-12.5-6.627417-6.903559-12 0-12 6.903559-12 12.5-6.627417 12.5 0"
+         id="path160" />
+      <path
+         transform="matrix(.8594444,0,0,-.8594444,118.64,623.445)"
+         d="M-13 2V14H13V4L5 8-4-1-9-7-12-4Z"
+         fill="#15152b"
+         fill-rule="evenodd"
+         id="path161" />
+      <path
+         transform="matrix(.8594444,0,0,-.8594444,118.64,623.445)"
+         stroke-width=".9"
+         stroke-linecap="butt"
+         stroke-miterlimit="10"
+         stroke-linejoin="miter"
+         fill="none"
+         stroke="#1d1b3a"
+         d="M-13 2V14H13V4L5 8-4-1-9-7-12-4Z"
+         id="path162" />
+      <path
+         transform="matrix(.8594444,0,0,-.8594444,118.64,623.445)"
+         d="M-3 7-9-7-5-1Z"
+         fill="#2c2c55"
+         fill-rule="evenodd"
+         id="path163" />
+      <path
+         transform="matrix(.8594444,0,0,-.8594444,118.64,623.445)"
+         d="M7.8-1.2C7.8 .23594 6.63594 1.4 5.2 1.4 3.76406 1.4 2.6 .23594 2.6-1.2 2.6-2.63594 3.76406-3.8 5.2-3.8 6.63594-3.8 7.8-2.63594 7.8-1.2"
+         fill="#1d1b3a"
+         fill-rule="evenodd"
+         id="path164" />
+      <path
+         transform="matrix(.8594444,0,0,-.8594444,118.64,623.445)"
+         d="M7.098-.16C7.098 .385657 6.655657 .828 6.11 .828 5.564343 .828 5.122 .385657 5.122-.16 5.122-.705657 5.564343-1.148 6.11-1.148 6.655657-1.148 7.098-.705657 7.098-.16"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         id="path165" />
+      <path
+         transform="matrix(.8594444,0,0,-.8594444,118.64,623.445)"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-miterlimit="10"
+         stroke-linejoin="miter"
+         fill="none"
+         stroke="#1d1b3a"
+         d="M2.5 3 8 2.5"
+         id="path166" />
+      <path
+         transform="matrix(.8594444,0,0,-.8594444,118.64,623.445)"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-miterlimit="10"
+         stroke-linejoin="miter"
+         fill="none"
+         stroke="#1d1b3a"
+         d="M-2.5-8H2.5"
+         id="path167" />
+      <path
+         transform="matrix(.8594444,0,0,-.8594444,118.64,623.445)"
+         d="M9-5.2 8.719986-6.719986 7.2-7 8.719986-7.280014 9-8.8 9.280014-7.280014 10.8-7 9.280014-6.719986Z"
+         fill="#8be9fd"
+         fill-rule="evenodd"
+         id="path168" />
+    </g>
+    <path
+       transform="matrix(1.011111,0,0,-1.011111,118.64,623.445)"
+       stroke-width="1.53"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M17 0C17 9.388841 9.388841 17 0 17-9.388841 17-17 9.388841-17 0-17-9.388841-9.388841-17 0-17 9.388841-17 17-9.388841 17 0"
+       id="path169" />
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="14.5"
+       font-family="Caladea"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text169"><tspan
+         y="668.445"
+         x="118.640"
+         id="tspan169">Le rival te dépasse</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text170"><tspan
+         y="684.445"
+         x="118.640"
+         id="tspan170">Échange ta place avec le dernier du</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text171"><tspan
+         y="697.165"
+         x="118.640"
+         id="tspan171">parcours (égalité : au choix du</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text172"><tspan
+         y="709.885"
+         x="118.640"
+         id="tspan172">Scénariste). Si tu es déjà dernier,</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text173"><tspan
+         y="722.605"
+         x="118.640"
+         id="tspan173">avance de 2 : ton rival a pitié de</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text174"><tspan
+         y="735.325"
+         x="118.640"
+         id="tspan174">toi.</tspan></text>
+    <text
+       fill="#4a4570"
+       xml:space="preserve"
+       font-size="7.8"
+       font-family="Carlito"
+       font-style="italic"
+       text-anchor="middle"
+       id="text175"><tspan
+         y="762.445"
+         x="118.640"
+         id="tspan175">Pour la cible de la prophétie</tspan></text>
+    <text
+       fill="#6a6590"
+       xml:space="preserve"
+       font-size="7.5"
+       font-family="Carlito"
+       font-weight="bold"
+       id="text176"><tspan
+         y="782.445"
+         x="43.140"
+         id="tspan176">R07</tspan></text>
+    <path
+       transform="matrix(.990268,-.139173,-.139173,-.990268,156.14,780.445)"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#b0185a"
+       stroke-opacity=".5"
+       d="M-20.41973-5H20.41973C21.24893-5 21.91973-4.3292 21.91973-3.5V3.5C21.91973 4.3292 21.24893 5 20.41973 5H-20.41973C-21.24893 5-21.91973 4.3292-21.91973 3.5V-3.5C-21.91973-4.3292-21.24893-5-20.41973-5Z"
+       id="path176" />
+    <text
+       fill="#b0185a"
+       fill-opacity=".5"
+       xml:space="preserve"
+       transform="matrix(.990268 -.139173 .139173 .990268 156.14 780.445)"
+       font-size="5.6"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text177"><tspan
+         y="2.000"
+         x="0"
+         id="tspan177">CONSTAT N° 07</tspan></text>
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M217.14 47.445H378.14C383.1152 47.445 387.14 51.4698 387.14 56.445V287.445C387.14 292.4202 383.1152 296.445 378.14 296.445H217.14C212.1648 296.445 208.14 292.4202 208.14 287.445V56.445C208.14 51.4698 212.1648 47.445 217.14 47.445Z"
+       fill="#fff4dc"
+       fill-rule="evenodd"
+       id="path177" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width=".8"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#7a7596"
+       d="M217.14 47.445H378.14C383.1152 47.445 387.14 51.4698 387.14 56.445V287.445C387.14 292.4202 383.1152 296.445 378.14 296.445H217.14C212.1648 296.445 208.14 292.4202 208.14 287.445V56.445C208.14 51.4698 212.1648 47.445 217.14 47.445Z"
+       id="path178" />
+    <g
+       clip-path="url(#p4_clip_9)"
+       id="g179">
+      <path
+         transform="matrix(1,0,0,-1,0,841.89)"
+         d="M208.14 258.445H387.14V296.445H208.14Z"
+         fill="#b0185a"
+         fill-rule="evenodd"
+         id="path179" />
+    </g>
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       font-size="12"
+       font-family="Caladea"
+       font-weight="bold"
+       font-style="italic"
+       text-anchor="middle"
+       id="text179"><tspan
+         y="561.445"
+         x="297.640"
+         id="tspan179">C’ÉTAIT ÉCRIT !</tspan></text>
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       font-size="6.8"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text180"><tspan
+         y="573.445"
+         x="298.409"
+         letter-spacing="1.538"
+         id="tspan180">REBONDISSEMENT</tspan></text>
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M334.64 218.445C334.64 238.8795 318.0745 255.445 297.64 255.445 277.2055 255.445 260.64 238.8795 260.64 218.445 260.64 198.0105 277.2055 181.445 297.64 181.445 318.0745 181.445 334.64 198.0105 334.64 218.445"
+       fill="#b0185a"
+       fill-opacity=".15"
+       fill-rule="evenodd"
+       id="path180" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M328.64 218.445C328.64 235.5658 314.7608 249.445 297.64 249.445 280.5192 249.445 266.64 235.5658 266.64 218.445 266.64 201.3242 280.5192 187.445 297.64 187.445 314.7608 187.445 328.64 201.3242 328.64 218.445"
+       fill="#b0185a"
+       fill-opacity=".26"
+       fill-rule="evenodd"
+       id="path181" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M323.64 218.445C323.64 232.8044 311.9994 244.445 297.64 244.445 283.2806 244.445 271.64 232.8044 271.64 218.445 271.64 204.0856 283.2806 192.445 297.64 192.445 311.9994 192.445 323.64 204.0856 323.64 218.445"
+       fill="#b0185a"
+       fill-rule="evenodd"
+       id="path182" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width="2"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M323.64 218.445C323.64 232.8044 311.9994 244.445 297.64 244.445 283.2806 244.445 271.64 232.8044 271.64 218.445 271.64 204.0856 283.2806 192.445 297.64 192.445 311.9994 192.445 323.64 204.0856 323.64 218.445"
+       id="path183" />
+    <path
+       transform="matrix(1.083333,0,0,-1.083333,297.64,623.445)"
+       d="M0-12C-18-1-14 13-5 12-2 12 0 9 0 7 0 9 2 12 5 12 14 13 18-1 0-12"
+       fill="#ff8fb8"
+       fill-rule="evenodd"
+       id="path184" />
+    <path
+       transform="matrix(1.083333,0,0,-1.083333,297.64,623.445)"
+       d="M-3.4 6C-3.4 6.883656-4.56406 7.6-6 7.6-7.43594 7.6-8.6 6.883656-8.6 6-8.6 5.116344-7.43594 4.4-6 4.4-4.56406 4.4-3.4 5.116344-3.4 6"
+       fill="#ffffff"
+       fill-opacity=".7"
+       fill-rule="evenodd"
+       id="path186" />
+    <path
+       transform="matrix(1.083333,0,0,-1.083333,297.64,623.445)"
+       d="M-3.9-1C-3.9-.392487-4.392487 .1-5 .1-5.607513 .1-6.1-.392487-6.1-1-6.1-1.607513-5.607513-2.1-5-2.1-4.392487-2.1-3.9-1.607513-3.9-1"
+       fill="#1d1b3a"
+       fill-rule="evenodd"
+       id="path187" />
+    <path
+       transform="matrix(1.083333,0,0,-1.083333,297.64,623.445)"
+       d="M1.1-1C1.1-.392487 .607513 .1 0 .1-.607513 .1-1.1-.392487-1.1-1-1.1-1.607513-.607513-2.1 0-2.1 .607513-2.1 1.1-1.607513 1.1-1"
+       fill="#1d1b3a"
+       fill-rule="evenodd"
+       id="path188" />
+    <path
+       transform="matrix(1.083333,0,0,-1.083333,297.64,623.445)"
+       d="M6.1-1C6.1-.392487 5.607513 .1 5 .1 4.392487 .1 3.9-.392487 3.9-1 3.9-1.607513 4.392487-2.1 5-2.1 5.607513-2.1 6.1-1.607513 6.1-1"
+       fill="#1d1b3a"
+       fill-rule="evenodd"
+       id="path189" />
+    <path
+       transform="matrix(1.083333,0,0,-1.083333,297.64,623.445)"
+       stroke-width="1.2"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="m 0,-12 c -0.10982582,0.06712 0.17059345,-0.222631 0.06240178,-0.155296 -0.08917247,0.0555 -0.56721726,0.468044 -0.65528441,0.523686 C -17.910338,-0.69021022 -13.899827,12.98887 -5,12 c 2.9301285,0 4.90629549,-2.8618842 4.99675794,-4.8586801 1.2615e-4,-0.00278 2.4862e-4,-0.00557 3.6743e-4,-0.00835 1.2138e-4,-0.00284 3.9956e-4,-0.011358 3.5266e-4,-0.00852 C -0.00625224,7.3503006 0,7.0410742 0,7 c 0,2 2,5 5,5 8.909161,0.989907 12.918744,-12.71891783 -4.46167207,-23.666026 -0.11837643,-0.07456 -0.7651354,-0.635819 -0.55282428,-0.504541 0.09846241,0.06088 0.07211107,0.04517 0.011792,0.0083"
+       id="path185"
+       sodipodi:nodetypes="csscsssccssc" />
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="14.5"
+       font-family="Caladea"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text190"><tspan
+         y="668.445"
+         x="297.640"
+         id="tspan190">Tsundère</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text191"><tspan
+         y="684.445"
+         x="297.640"
+         id="tspan191">« C’est pas que je veux pas… » Tu</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text192"><tspan
+         y="697.165"
+         x="297.640"
+         id="tspan192">ne peux pas jouer Coup à la</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text193"><tspan
+         y="709.885"
+         x="297.640"
+         id="tspan193">prochaine manche. (Aucune carte</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text194"><tspan
+         y="722.605"
+         x="297.640"
+         id="tspan194">jouable ? Joue celle que tu veux.)</tspan></text>
+    <text
+       fill="#4a4570"
+       xml:space="preserve"
+       font-size="7.8"
+       font-family="Carlito"
+       font-style="italic"
+       text-anchor="middle"
+       id="text195"><tspan
+         y="762.445"
+         x="297.640"
+         id="tspan195">Pour la cible de la prophétie</tspan></text>
+    <text
+       fill="#6a6590"
+       xml:space="preserve"
+       font-size="7.5"
+       font-family="Carlito"
+       font-weight="bold"
+       id="text196"><tspan
+         y="782.445"
+         x="222.140"
+         id="tspan196">R08</tspan></text>
+    <path
+       transform="matrix(.990268,-.139173,-.139173,-.990268,335.14,780.445)"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#b0185a"
+       stroke-opacity=".5"
+       d="M-20.41973-5H20.41973C21.24893-5 21.91973-4.3292 21.91973-3.5V3.5C21.91973 4.3292 21.24893 5 20.41973 5H-20.41973C-21.24893 5-21.91973 4.3292-21.91973 3.5V-3.5C-21.91973-4.3292-21.24893-5-20.41973-5Z"
+       id="path196" />
+    <text
+       fill="#b0185a"
+       fill-opacity=".5"
+       xml:space="preserve"
+       transform="matrix(.990268 -.139173 .139173 .990268 335.14 780.445)"
+       font-size="5.6"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text197"><tspan
+         y="2.000"
+         x="0"
+         id="tspan197">CONSTAT N° 08</tspan></text>
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M396.14 47.445H557.14C562.1152 47.445 566.14 51.4698 566.14 56.445V287.445C566.14 292.4202 562.1152 296.445 557.14 296.445H396.14C391.1648 296.445 387.14 292.4202 387.14 287.445V56.445C387.14 51.4698 391.1648 47.445 396.14 47.445Z"
+       fill="#fff4dc"
+       fill-rule="evenodd"
+       id="path197" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width=".8"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#7a7596"
+       d="M396.14 47.445H557.14C562.1152 47.445 566.14 51.4698 566.14 56.445V287.445C566.14 292.4202 562.1152 296.445 557.14 296.445H396.14C391.1648 296.445 387.14 292.4202 387.14 287.445V56.445C387.14 51.4698 391.1648 47.445 396.14 47.445Z"
+       id="path198" />
+    <g
+       clip-path="url(#p4_clip_10)"
+       id="g199">
+      <path
+         transform="matrix(1,0,0,-1,0,841.89)"
+         d="M387.14 258.445H566.14V296.445H387.14Z"
+         fill="#b0185a"
+         fill-rule="evenodd"
+         id="path199" />
+    </g>
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       font-size="12"
+       font-family="Caladea"
+       font-weight="bold"
+       font-style="italic"
+       text-anchor="middle"
+       id="text199"><tspan
+         y="561.445"
+         x="476.640"
+         id="tspan199">C’ÉTAIT ÉCRIT !</tspan></text>
+    <text
+       fill="#ffffff"
+       xml:space="preserve"
+       font-size="6.8"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text200"><tspan
+         y="573.445"
+         x="477.409"
+         letter-spacing="1.538"
+         id="tspan200">REBONDISSEMENT</tspan></text>
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M517.64 210.445C517.64 233.0887 499.2837 251.445 476.64 251.445 453.9963 251.445 435.64 233.0887 435.64 210.445 435.64 187.8013 453.9963 169.445 476.64 169.445 499.2837 169.445 517.64 187.8013 517.64 210.445"
+       fill="#b0185a"
+       fill-opacity=".15"
+       fill-rule="evenodd"
+       id="path200" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M511.64 210.445C511.64 229.775 495.97 245.445 476.64 245.445 457.31 245.445 441.64 229.775 441.64 210.445 441.64 191.115 457.31 175.445 476.64 175.445 495.97 175.445 511.64 191.115 511.64 210.445"
+       fill="#b0185a"
+       fill-opacity=".26"
+       fill-rule="evenodd"
+       id="path201" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       d="M506.64 210.445C506.64 227.0135 493.2085 240.445 476.64 240.445 460.0715 240.445 446.64 227.0135 446.64 210.445 446.64 193.8765 460.0715 180.445 476.64 180.445 493.2085 180.445 506.64 193.8765 506.64 210.445"
+       fill="#b0185a"
+       fill-rule="evenodd"
+       id="path202" />
+    <path
+       transform="matrix(1,0,0,-1,0,841.89)"
+       stroke-width="2"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M506.64 210.445C506.64 227.0135 493.2085 240.445 476.64 240.445 460.0715 240.445 446.64 227.0135 446.64 210.445 446.64 193.8765 460.0715 180.445 476.64 180.445 493.2085 180.445 506.64 193.8765 506.64 210.445"
+       id="path203" />
+    <path
+       transform="matrix(1.4000005,0,0,-1.4000005,476.64,624.445)"
+       d="M-4 0C-4 3.313708-6.686292 6-10 6-13.31371 6-16 3.313708-16 0-16-3.313708-13.31371-6-10-6-6.686292-6-4-3.313708-4 0"
+       fill="#c9cfe0"
+       fill-rule="evenodd"
+       id="path204" />
+    <path
+       transform="matrix(1.4000005,0,0,-1.4000005,476.64,624.445)"
+       stroke-width=".7"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M-4 0C-4 3.313708-6.686292 6-10 6-13.31371 6-16 3.313708-16 0-16-3.313708-13.31371-6-10-6-6.686292-6-4-3.313708-4 0"
+       id="path205" />
+    <path
+       transform="matrix(1.4000005,0,0,-1.4000005,476.64,624.445)"
+       d="M5 3C5 7.418278 1.418278 11-3 11-7.418278 11-11 7.418278-11 3-11-1.418278-7.418278-5-3-5 1.418278-5 5-1.418278 5 3"
+       fill="#c9cfe0"
+       fill-rule="evenodd"
+       id="path206" />
+    <path
+       transform="matrix(1.4000005,0,0,-1.4000005,476.64,624.445)"
+       stroke-width=".7"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M5 3C5 7.418278 1.418278 11-3 11-7.418278 11-11 7.418278-11 3-11-1.418278-7.418278-5-3-5 1.418278-5 5-1.418278 5 3"
+       id="path207" />
+    <path
+       transform="matrix(1.4000005,0,0,-1.4000005,476.64,624.445)"
+       d="M13 2C13 5.865993 9.865993 9 6 9 2.134007 9-1 5.865993-1 2-1-1.865993 2.134007-5 6-5 9.865993-5 13-1.865993 13 2"
+       fill="#c9cfe0"
+       fill-rule="evenodd"
+       id="path208" />
+    <path
+       transform="matrix(1.4000005,0,0,-1.4000005,476.64,624.445)"
+       stroke-width=".7"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M13 2C13 5.865993 9.865993 9 6 9 2.134007 9-1 5.865993-1 2-1-1.865993 2.134007-5 6-5 9.865993-5 13-1.865993 13 2"
+       id="path209" />
+    <path
+       transform="matrix(1.4000005,0,0,-1.4000005,476.64,624.445)"
+       d="M18 0C18 2.761424 15.76142 5 13 5 10.23858 5 8 2.761424 8 0 8-2.761424 10.23858-5 13-5 15.76142-5 18-2.761424 18 0"
+       fill="#c9cfe0"
+       fill-rule="evenodd"
+       id="path210" />
+    <path
+       transform="matrix(1.4000005,0,0,-1.4000005,476.64,624.445)"
+       stroke-width=".7"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#1d1b3a"
+       d="M18 0C18 2.761424 15.76142 5 13 5 10.23858 5 8 2.761424 8 0 8-2.761424 10.23858-5 13-5 15.76142-5 18-2.761424 18 0"
+       id="path211" />
+    <path
+       transform="matrix(1.4000005,0,0,-1.4000005,476.64,624.445)"
+       d="M -13.397317,-4.4307996 14.89061,-3.3928459 17,2 h -31 z"
+       fill="#c9cfe0"
+       fill-rule="evenodd"
+       id="path212"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       transform="matrix(1.4000005,0,0,-1.4000005,476.64,624.445)"
+       d="M-4.6 0C-4.6 2.982338-7.017662 5.4-10 5.4-12.98234 5.4-15.4 2.982338-15.4 0-15.4-2.982338-12.98234-5.4-10-5.4-7.017662-5.4-4.6-2.982338-4.6 0"
+       fill="#c9cfe0"
+       fill-rule="evenodd"
+       id="path213" />
+    <path
+       transform="matrix(1.4000005,0,0,-1.4000005,476.64,624.445)"
+       d="M4.4 3C4.4 7.086907 1.086907 10.4-3 10.4-7.086907 10.4-10.4 7.086907-10.4 3-10.4-1.086907-7.086907-4.4-3-4.4 1.086907-4.4 4.4-1.086907 4.4 3"
+       fill="#c9cfe0"
+       fill-rule="evenodd"
+       id="path214" />
+    <path
+       transform="matrix(1.4000005,0,0,-1.4000005,476.64,624.445)"
+       d="M12.4 2C12.4 5.534622 9.534622 8.4 6 8.4 2.465378 8.4-.4 5.534622-.4 2-.4-1.534622 2.465378-4.4 6-4.4 9.534622-4.4 12.4-1.534622 12.4 2"
+       fill="#c9cfe0"
+       fill-rule="evenodd"
+       id="path215" />
+    <path
+       transform="matrix(1.4000005,0,0,-1.4000005,476.64,624.445)"
+       d="M17.4 0C17.4 2.430053 15.43005 4.4 13 4.4 10.56995 4.4 8.6 2.430053 8.6 0 8.6-2.430053 10.56995-4.4 13-4.4 15.43005-4.4 17.4-2.430053 17.4 0"
+       fill="#c9cfe0"
+       fill-rule="evenodd"
+       id="path216" />
+    <path
+       transform="matrix(1.166667,0,0,-1.166667,476.64,631.445)"
+       stroke-width="1.8"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#4a86e8"
+       d="M-9-2-11-8"
+       id="path217" />
+    <path
+       transform="matrix(1.166667,0,0,-1.166667,476.64,631.445)"
+       stroke-width="1.8"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#4a86e8"
+       d="M-2-2-4-8"
+       id="path218" />
+    <path
+       transform="matrix(1.166667,0,0,-1.166667,476.64,631.445)"
+       stroke-width="1.8"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#4a86e8"
+       d="M6-2 4-8"
+       id="path219" />
+    <path
+       transform="matrix(1.166667,0,0,-1.166667,476.64,631.445)"
+       stroke-width="1.8"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#4a86e8"
+       d="M13-2 11-8"
+       id="path220" />
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="14.5"
+       font-family="Caladea"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text220"><tspan
+         y="684.445"
+         x="476.640"
+         id="tspan220">Pluie dramatique</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text221"><tspan
+         y="700.445"
+         x="476.640"
+         id="tspan221">Regarde au loin avec émotion. Ton</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text222"><tspan
+         y="713.165"
+         x="476.640"
+         id="tspan222">prochain lancer de dé compte pour</tspan></text>
+    <text
+       fill="#1d1b3a"
+       xml:space="preserve"
+       font-size="10.6"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text223"><tspan
+         y="725.885"
+         x="476.640"
+         id="tspan223">moitié (arrondi au supérieur).</tspan></text>
+    <text
+       fill="#4a4570"
+       xml:space="preserve"
+       font-size="7.8"
+       font-family="Carlito"
+       font-style="italic"
+       text-anchor="middle"
+       id="text224"><tspan
+         y="762.445"
+         x="476.640"
+         id="tspan224">Pour la cible de la prophétie</tspan></text>
+    <text
+       fill="#6a6590"
+       xml:space="preserve"
+       font-size="7.5"
+       font-family="Carlito"
+       font-weight="bold"
+       id="text225"><tspan
+         y="782.445"
+         x="401.140"
+         id="tspan225">R09</tspan></text>
+    <path
+       transform="matrix(.990268,-.139173,-.139173,-.990268,514.14,780.445)"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#b0185a"
+       stroke-opacity=".5"
+       d="M-20.41973-5H20.41973C21.24893-5 21.91973-4.3292 21.91973-3.5V3.5C21.91973 4.3292 21.24893 5 20.41973 5H-20.41973C-21.24893 5-21.91973 4.3292-21.91973 3.5V-3.5C-21.91973-4.3292-21.24893-5-20.41973-5Z"
+       id="path225" />
+    <text
+       fill="#b0185a"
+       fill-opacity=".5"
+       xml:space="preserve"
+       transform="matrix(.990268 -.139173 .139173 .990268 514.14 780.445)"
+       font-size="5.6"
+       font-family="Carlito"
+       font-weight="bold"
+       text-anchor="middle"
+       id="text226"><tspan
+         y="2.000"
+         x="0"
+         id="tspan226">CONSTAT N° 09</tspan></text>
+    <text
+       fill="#6a6590"
+       xml:space="preserve"
+       font-size="7.5"
+       font-family="Carlito"
+       text-anchor="middle"
+       id="text227"><tspan
+         y="819.890"
+         x="297.640"
+         id="tspan227">Cartes v0.5 (suite) · page 4/8 · Rebondissements R01 à R09 · imprime en taille réelle (100 %), recto seul · découpe sur les traits</tspan></text>
+  </g>
+</svg>

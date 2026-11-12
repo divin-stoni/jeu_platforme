@@ -1,0 +1,35 @@
+﻿case;acte;type;centre_x_mm;centre_y_mm;longueur_mm;profondeur_mm;orientation_deg
+0;Coulisses;normal;25.5;25.5;33.0;22.0;315
+1;Acte I;normal;60.0;19.0;35.5;22.0;0
+2;Acte I;normal;97.5;19.0;35.5;22.0;0
+3;Acte I;normal;135.0;19.0;35.5;22.0;0
+4;Acte I;etoile;172.5;19.0;35.5;22.0;0
+5;Acte I;normal;210.0;19.0;35.5;22.0;0
+6;Acte I;normal;247.5;19.0;35.5;22.0;0
+7;Acte I;normal;285.0;19.0;35.5;22.0;0
+8;Acte I;jeton;322.5;19.0;35.5;22.0;0
+9;Acte I;etoile;360.0;19.0;35.5;22.0;0
+10;Acte I;normal;394.5;25.5;33.0;22.0;45
+11;Acte I;jeton;401.0;59.2;33.7;22.0;90
+12;Acte II;normal;401.0;94.9;33.7;22.0;90
+13;Acte II;etoile;401.0;130.6;33.7;22.0;90
+14;Acte II;normal;401.0;166.4;33.7;22.0;90
+15;Acte II;jeton;401.0;202.1;33.7;22.0;90
+16;Acte II;normal;401.0;237.8;33.7;22.0;90
+17;Acte II;etoile;394.5;271.5;33.0;22.0;135
+18;Acte II;normal;360.0;278.0;35.5;22.0;180
+19;Acte II;jeton;322.5;278.0;35.5;22.0;180
+20;Acte II;normal;285.0;278.0;35.5;22.0;180
+21;Acte II;etoile;247.5;278.0;35.5;22.0;180
+22;Acte II;normal;210.0;278.0;35.5;22.0;180
+23;Acte II;cafe;172.5;278.0;35.5;22.0;180
+24;Acte III;etoile;135.0;278.0;35.5;22.0;180
+25;Acte III;normal;97.5;278.0;35.5;22.0;180
+26;Acte III;jeton;60.0;278.0;35.5;22.0;180
+27;Acte III;normal;25.5;271.5;33.0;22.0;225
+28;Acte III;etoile;19.0;237.8;33.7;22.0;270
+29;Acte III;normal;19.0;202.1;33.7;22.0;270
+30;Acte III;jeton;19.0;166.4;33.7;22.0;270
+31;Acte III;normal;19.0;130.6;33.7;22.0;270
+32;Acte III;etoile;19.0;94.9;33.7;22.0;270
+33;Episode final;normal;19.0;59.2;33.7;22.0;270
